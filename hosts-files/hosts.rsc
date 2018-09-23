@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-08-06
+# Last updated: 2018-09-20
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -18,7 +18,8 @@ add address=::1 name=ip6-loopback
 
 # GoogleHosts Start
 add address=23.95.9.4 name=23-95-9-4.googlehosts.org
-add address=23.95.9.4 name=tg-1.googlehosts.org
+add address=204.44.101.36 name=204-44-101-36.googlehosts.org
+add address=204.44.101.36 name=tg-1.googlehosts.org
 add address=185.200.34.198 name=185-200-34-198.googlehosts.org
 add address=185.200.34.198 name=tg-2.googlehosts.org
 add address=107.174.205.58 name=107-174-205-58.googlehosts.org
@@ -29,15 +30,19 @@ add address=107.174.203.60 name=107-174-203-60.googlehosts.org
 add address=107.174.203.60 name=tg-5.googlehosts.org
 add address=45.124.64.82 name=45-124-64-82.googlehosts.org
 add address=45.124.64.82 name=tg-6.googlehosts.org
-add address=185.116.237.11 name=185-116-237-11.googlehosts.org
-add address=185.116.237.11 name=tg-9.googlehosts.org
-add address=104.129.16.244 name=104-129-16-244.googlehosts.org
-add address=104.129.16.244 name=ss-1.googlehosts.org
-add address=107.150.12.229 name=107-150-12-229.googlehosts.org
-add address=107.150.12.229 name=ss-2.googlehosts.org
+add address=172.86.72.19 name=172-86-72-19.googlehosts.org
+add address=172.86.72.19 name=tg-7.googlehosts.org
+add address=185.122.58.249 name=185-122-58-249.googlehosts.org
+add address=185.122.58.249 name=tg-8.googlehosts.org
+add address=103.105.48.234 name=103-105-48-234.googlehosts.org
+add address=103.105.48.234 name=tg-9.googlehosts.org
+add address=23.226.136.24 name=23-226-136-24.googlehosts.org
+add address=23.226.136.24 name=ss-1.googlehosts.org
+add address=23.226.136.112 name=23-226-136-112.googlehosts.org
+add address=23.226.136.112 name=ss-2.googlehosts.org
 add address=104.223.56.187 name=104-223-56-187.googlehosts.org
-add address=155.94.137.77 name=155-94-137-77.googlehosts.org
-add address=155.94.137.77 name=ss-3.googlehosts.org
+add address=23.226.136.216 name=23-226-136-216.googlehosts.org
+add address=23.226.136.216 name=ss-3.googlehosts.org
 add address=64.32.8.146 name=64-32-8-146.googlehosts.org
 add address=64.32.8.146 name=status.googlehosts.org
 # GoogleHosts End
@@ -45,7 +50,7 @@ add address=64.32.8.146 name=status.googlehosts.org
 # Akamai Start
 add address=23.32.241.9 name=a248.e.akamai.net
 add address=23.32.241.16 name=static.ak.instagram.com
-add address=184.51.15.69 name=images.ak.instagram.com
+add address=23.55.56.140 name=images.ak.instagram.com
 add address=23.2.36.161 name=s.pinimg.com
 add address=104.76.17.41 name=i.pinimg.com
 add address=23.217.143.151 name=s-media-cache-ak0.pinimg.com
@@ -74,17 +79,17 @@ add address=205.251.235.239 name=copilot.amazon.co.jp
 add address=54.240.248.163 name=dropship.amazon.co.jp
 add address=54.240.254.58 name=cs-ext.amazon.co.jp
 add address=54.240.252.151 name=endeavour.amazon.co.jp
-add address=54.149.133.67 name=fls-fe.amazon.co.jp
+add address=54.148.215.218 name=fls-fe.amazon.co.jp
 add address=54.240.250.189 name=kdp.amazon.co.jp
 add address=176.32.100.154 name=kindle-images.amazon.co.jp
-add address=54.240.248.180 name=kindlepreviewservice.amazon.co.jp
+add address=54.240.250.180 name=kindlepreviewservice.amazon.co.jp
 add address=54.240.250.59 name=kuato.amazon.co.jp
 add address=54.240.254.122 name=logistics.amazon.co.jp
 add address=54.240.248.64 name=mt.amazon.co.jp
 add address=54.240.251.157 name=music.amazon.co.jp
 add address=52.94.212.221 name=music-xray-service.amazon.co.jp
 add address=54.240.249.62 name=widgets.amazon.co.jp
-add address=54.240.252.167 name=opf-sellercentral.amazon.co.jp
+add address=54.240.250.177 name=opf-sellercentral.amazon.co.jp
 add address=54.240.251.156 name=payments.amazon.co.jp
 add address=54.240.250.198 name=prime.amazon.co.jp
 add address=54.240.248.131 name=read.amazon.co.jp
@@ -176,7 +181,7 @@ add address=207.241.225.186 name=web-beta.archive.org
 add address=207.241.225.186 name=wwwb-sentry.us.archive.org
 add address=207.241.225.186 name=web.archive.org
 add address=207.241.224.6 name=mail.archive.org
-add address=207.241.224.22 name=books-general.archive.org
+add address=207.241.225.247 name=books-general.archive.org
 # Archive End
 
 # Armorgames Start
@@ -198,27 +203,27 @@ add address=104.20.6.63 name=bandwagonhost.com
 # Bbc Start
 add address=151.101.8.81 name=www.bbc.com
 add address=151.101.40.81 name=fig.bbc.co.uk
-add address=212.58.246.92 name=www.bbc.co.uk
+add address=212.58.244.69 name=www.bbc.co.uk
 add address=104.118.112.225 name=static.bbci.co.uk
 add address=23.199.11.116 name=static.bbc.co.uk
 add address=104.76.83.32 name=nav.files.bbci.co.uk
-add address=23.50.99.110 name=ichef.bbci.co.uk
+add address=23.42.122.193 name=ichef.bbci.co.uk
 add address=23.73.186.251 name=m.files.bbci.co.uk
-add address=172.227.98.43 name=feeds.bbci.co.uk
+add address=104.124.234.244 name=feeds.bbci.co.uk
 add address=23.13.157.61 name=mybbc.files.bbci.co.uk
 add address=23.66.206.133 name=polling.bbc.co.uk
-add address=23.33.70.13 name=search.files.bbci.co.uk
+add address=104.72.213.225 name=search.files.bbci.co.uk
 add address=95.101.92.111 name=a.files.bbci.co.uk
 add address=95.101.15.42 name=gel.files.bbci.co.uk
 add address=104.103.150.125 name=emp.bbc.com
 add address=23.53.213.148 name=news.bbcimg.co.uk
 add address=23.201.173.230 name=mybbc-analytics.files.bbci.co.uk
-add address=212.58.246.212 name=ssl.bbc.co.uk
+add address=212.58.244.114 name=ssl.bbc.co.uk
 add address=54.72.23.188 name=push.api.bbci.co.uk
-add address=34.251.9.18 name=search-suggest.api.bbci.co.uk
-add address=34.253.116.138 name=ess.api.bbci.co.uk
-add address=212.58.246.124 name=session.bbc.com
-add address=212.58.249.134 name=account.bbc.com
+add address=52.17.153.208 name=search-suggest.api.bbci.co.uk
+add address=34.246.1.31 name=ess.api.bbci.co.uk
+add address=212.58.249.134 name=session.bbc.com
+add address=212.58.244.92 name=account.bbc.com
 add address=212.58.244.78 name=open.live.bbc.co.uk
 # Bbc End
 
@@ -356,6 +361,12 @@ add address=104.16.250.144 name=dl.discordapp.net
 add address=104.16.251.144 name=images-ext-2.discordapp.net
 add address=104.16.10.231 name=cdn.discordapp.com
 # Discord End
+
+# Discuss.com.hk Start
+add address=104.20.171.49 name=www.discuss.com.hk
+add address=104.20.171.49 name=m.discuss.com.hk
+add address=104.20.170.49 name=tr.discuss.com.hk
+# Discuss.com.hk End
 
 # Facebook Start
 add address=157.240.7.35 name=www.facebook.com
@@ -3322,13 +3333,7 @@ add address=64.71.134.121 name=support.ixquick.com
 # Startpage & Ixquick End
 
 # Steam Start
-add address=223.119.217.234 name=steamcommunity.com
-add address=173.223.87.13 name=help.steampowered.com
-add address=23.37.147.226 name=store.steampowered.com
-add address=23.4.240.26 name=steamcommunity-a.akamaihd.net
-add address=184.28.218.74 name=steamuserimages-a.akamaihd.net
-add address=184.25.205.16 name=steamcdn-a.akamaihd.net
-add address=184.25.205.19 name=cdn.akamai.steamstatic.com
+add address=104.71.136.93 name=steamcommunity.com
 # Steam End
 
 # Theinitium Start
@@ -3443,6 +3448,32 @@ add address=138.201.14.206 name=svn.torproject.org
 add address=138.201.212.227 name=trac.torproject.org
 # Tor End
 
+# Twitch Start
+add address=151.101.66.167 name=twitch.tv
+add address=54.254.167.84 name=app.twitch.tv
+add address=23.12.207.125 name=api.twitch.tv
+add address=52.4.145.119 name=blog.twitch.tv
+add address=23.12.207.125 name=cvp.twitch.tv
+add address=54.187.84.86 name=countess.twitch.tv
+add address=52.84.222.121 name=dev.twitch.tv
+add address=151.101.110.167 name=gql.twitch.tv
+add address=184.169.156.224 name=help.twitch.tv
+add address=23.12.207.125 name=player.twitch.tv
+add address=52.89.26.201 name=passport.twitch.tv
+add address=35.161.182.231 name=spade.twitch.tv
+add address=34.212.220.91 name=trowel.twitch.tv
+add address=35.185.17.162 name=music.twitch.tv
+add address=54.230.159.250 name=clips-media-assets2.twitch.tv
+add address=54.230.159.146 name=vod-storyboards.twitch.tv
+add address=34.214.98.191 name=client-event-reporter.twitch.tv
+add address=54.68.186.105 name=pubsub-edge.twitch.tv
+add address=50.112.132.198 name=irc-ws.chat.twitch.tv
+add address=52.89.48.200 name=video-edge-aed56b.sjc02.hls.ttvnw.net
+add address=35.163.203.219 name=video-edge-db8460.sjc02.hls.ttvnw.net
+add address=54.149.124.198 name=video-edge-5fbf1c.sjc02.hls.ttvnw.net
+add address=52.88.54.25 name=video-edge-87714e.sjc02.hls.ttvnw.net
+# Twitch End
+
 # Vimeo Start
 add address=151.101.0.217 name=vimeo.com
 add address=151.101.192.217 name=api.vimeo.com
@@ -3556,6 +3587,7 @@ add address=46.51.218.82 name=duckduckgo-owned-server.yahoo.net
 add address=119.160.242.137 name=tw.mall.yahoo.com
 add address=208.71.45.11 name=hk.search.yahoo.com
 add address=27.123.200.67 name=tw.search.yahoo.com
+add address=106.10.218.137 name=search.yahoo.com
 # Yahoo End
 
 # Youtube Start
