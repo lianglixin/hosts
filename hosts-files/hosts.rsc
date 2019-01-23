@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-12-19
+# Last updated: 2019-01-22
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -51,6 +51,8 @@ add address=185.22.152.42 name=185-22-152-42.googlehosts.org
 add address=185.22.152.42 name=ss-3.googlehosts.org
 add address=167.88.168.251 name=167-88-168-251.googlehosts.org
 add address=167.88.168.251 name=ss-4.googlehosts.org
+add address=103.124.106.174 name=103-124-106-174.googlehosts.org
+add address=103.124.106.174 name=proxy.googlehosts.org
 # GoogleHosts End
 
 # Akamai Start
@@ -168,6 +170,7 @@ add address=172.217.161.180 name=apis-explorer.appspot.com
 add address=172.217.161.180 name=betaspike.appspot.com
 add address=172.217.161.180 name=hstspreload.appspot.com
 add address=172.217.161.180 name=lfe-alpo-gm.appspot.com
+add address=172.217.8.244 name=netlog-viewer.appspot.com
 # Appspotpreview End
 
 # Archive Start
@@ -267,6 +270,11 @@ add address=150.95.236.28 name=www.conoha.jp
 add address=150.95.236.52 name=app.conoha.jp
 add address=150.95.236.31 name=manage.conoha.jp
 # Conoha End
+
+# Ctext Start
+add address=63.141.239.58 name=ctext.org
+add address=63.141.239.58 name=library.ctext.org
+# Ctext End
 
 # Dropbox Start
 add address=162.125.248.2 name=db.tt
@@ -502,7 +510,7 @@ add address=34.201.185.200 name=fbprod.flipboard.com
 
 # Github Start
 add address=192.30.253.118 name=gist.github.com
-add address=192.30.255.111 name=github.com
+add address=13.229.188.59 name=github.com
 add address=192.30.255.110 name=www.github.com
 # Github End
 

@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-12-19
+# Last updated: 2019-01-22
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -29,6 +29,7 @@
 155.94.137.77	155-94-137-77.googlehosts.org
 185.22.152.42	185-22-152-42.googlehosts.org ss-3.googlehosts.org
 167.88.168.251	167-88-168-251.googlehosts.org ss-4.googlehosts.org
+103.124.106.174	103-124-106-174.googlehosts.org proxy.googlehosts.org
 23.32.241.9	a248.e.akamai.net
 52.219.0.4	s3-ap-northeast-1.amazonaws.com
 54.231.249.17	s3-ap-southeast-2.amazonaws.com
@@ -72,6 +73,7 @@
 104.19.133.58	www.apkmirror.com
 172.217.168.209	www.appspot.com appspot.com events.withgoogle.com summerofcode.withgoogle.com foobar.withgoogle.com interstellar.withgoogle.com edudirectory.withgoogle.com atmosphere.withgoogle.com accelerate.withgoogle.com insgruene.withgoogle.com atmospheretokyo.withgoogle.com connectedclassrooms.withgoogle.com smartypins.withgoogle.com streetart.withgoogle.com cardboard.withgoogle.com kickwithchrome.withgoogle.com candidatos.withgoogle.com trendstw.withgoogle.com impactchallenge.withgoogle.com eduproducts.withgoogle.com onetoday.google.com withgoogle.com www.withgoogle.com cloudnext.withgoogle.com edutrainingcenter.withgoogle.com earthview.withgoogle.com lightsaber.withgoogle.com britishmuseum.withgoogle.com beyondthemap.withgoogle.com analyticsacademy.withgoogle.com spellup.withgoogle.com
 172.217.161.180	author-dot-betaspike.appspot.com jmoore-dot-android-experiments.appspot.com mission-author-dot-betaspike.appspot.com drivenotepad.appspot.com virustotalcloud.appspot.com joinjoaomgcd.appspot.com m-dot-betaspike.appspot.com download-chromium.appspot.com google-developers.appspot.com chrometophone.appspot.com chrome-devtools-frontend.appspot.com apis-explorer.appspot.com betaspike.appspot.com hstspreload.appspot.com lfe-alpo-gm.appspot.com
+172.217.8.244	netlog-viewer.appspot.com
 207.241.225.95	archive.org www.archive.org analytics.archive.org ia802704.us.archive.org
 207.241.225.186	web-beta.archive.org wwwb-sentry.us.archive.org web.archive.org
 207.241.224.6	mail.archive.org
@@ -117,6 +119,7 @@
 150.95.236.28	www.conoha.jp
 150.95.236.52	app.conoha.jp
 150.95.236.31	manage.conoha.jp
+63.141.239.58	ctext.org library.ctext.org
 162.125.248.2	db.tt
 162.125.248.1	www.dropbox.com www.dualstack.dropbox-dns.com
 162.125.5.7	api.dropbox.com api.dualstack.dropbox-dns.com api.dropboxapi.com
@@ -185,7 +188,7 @@
 52.44.186.59	beacon.flipboard.com
 34.201.185.200	fbprod.flipboard.com
 192.30.253.118	gist.github.com
-192.30.255.111	github.com
+13.229.188.59	github.com
 192.30.255.110	www.github.com
 216.58.215.229	gmail.com
 172.217.168.37	www.gmail.com googlemail.l.google.com m.gmail.com

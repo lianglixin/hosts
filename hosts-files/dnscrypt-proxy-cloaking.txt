@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2018-12-19
+# Last updated: 2019-01-22
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -49,6 +49,8 @@ ss-3.googlehosts.org	23.226.136.216
 ss-3.googlehosts.org	185.22.152.42
 167-88-168-251.googlehosts.org	167.88.168.251
 ss-4.googlehosts.org	167.88.168.251
+103-124-106-174.googlehosts.org	103.124.106.174
+proxy.googlehosts.org	103.124.106.174
 # GoogleHosts End
 
 # Akamai Start
@@ -166,6 +168,7 @@ apis-explorer.appspot.com	172.217.161.180
 betaspike.appspot.com	172.217.161.180
 hstspreload.appspot.com	172.217.161.180
 lfe-alpo-gm.appspot.com	172.217.161.180
+netlog-viewer.appspot.com	172.217.8.244
 # Appspotpreview End
 
 # Archive Start
@@ -265,6 +268,11 @@ www.conoha.jp	150.95.236.28
 app.conoha.jp	150.95.236.52
 manage.conoha.jp	150.95.236.31
 # Conoha End
+
+# Ctext Start
+ctext.org	63.141.239.58
+library.ctext.org	63.141.239.58
+# Ctext End
 
 # Dropbox Start
 db.tt	162.125.248.2
@@ -500,7 +508,7 @@ fbprod.flipboard.com	34.201.185.200
 
 # Github Start
 gist.github.com	192.30.253.118
-github.com	192.30.255.111
+github.com	13.229.188.59
 www.github.com	192.30.255.110
 # Github End
 
