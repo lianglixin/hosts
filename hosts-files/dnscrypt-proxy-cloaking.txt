@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2018, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-01-22
+# Last updated: 2019-03-12
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -13,8 +13,8 @@ localhost	127.0.0.1
 
 # GoogleHosts Start
 23-95-9-4.googlehosts.org	23.95.9.4
+tg-1.googlehosts.org	23.95.9.4
 204-44-101-36.googlehosts.org	204.44.101.36
-tg-1.googlehosts.org	204.44.101.36
 185-200-34-198.googlehosts.org	185.200.34.198
 tg-2.googlehosts.org	185.200.34.198
 107-174-205-58.googlehosts.org	107.174.205.58
@@ -25,32 +25,36 @@ tg-4.googlehosts.org	185.200.34.209
 tg-5.googlehosts.org	107.174.203.60
 45-124-64-82.googlehosts.org	45.124.64.82
 tg-6.googlehosts.org	45.124.64.82
-172-86-72-19.googlehosts.org	172.86.72.19
-tg-7.googlehosts.org	172.86.72.19
+120-132-20-219.googlehosts.org	120.132.20.219
+tg-7.googlehosts.org	120.132.20.219
 185-122-58-249.googlehosts.org	185.122.58.249
 tg-8.googlehosts.org	185.122.58.249
 103-105-48-234.googlehosts.org	103.105.48.234
 tg-9.googlehosts.org	103.105.48.234
 23-226-136-24.googlehosts.org	23.226.136.24
 ss-1.googlehosts.org	23.226.136.24
-107-150-12-229.googlehosts.org	107.150.12.229
-66-154-104-124.googlehosts.org	66.154.104.124
-ss-1.googlehosts.org	66.154.104.124
-104-129-16-244.googlehosts.org	104.129.16.244
 23-226-136-132.googlehosts.org	23.226.136.132
-104-223-60-17.googlehosts.org	104.223.60.17
-ss-2.googlehosts.org	104.223.60.17
+ss-2.googlehosts.org	23.226.136.132
 66-154-108-62.googlehosts.org	66.154.108.62
-ss-2.googlehosts.org	66.154.108.62
 23-226-136-216.googlehosts.org	23.226.136.216
 ss-3.googlehosts.org	23.226.136.216
 155-94-137-77.googlehosts.org	155.94.137.77
 185-22-152-42.googlehosts.org	185.22.152.42
 ss-3.googlehosts.org	185.22.152.42
 167-88-168-251.googlehosts.org	167.88.168.251
-ss-4.googlehosts.org	167.88.168.251
+167-88-163-163.googlehosts.org	167.88.163.163
+ss-4.googlehosts.org	167.88.163.163
+23-95-54-162.googlehosts.org	23.95.54.162
 103-124-106-174.googlehosts.org	103.124.106.174
 proxy.googlehosts.org	103.124.106.174
+45-59-113-167.googlehosts.org	45.59.113.167
+status.googlehosts.org	45.59.113.167
+45-59-113-168.googlehosts.org	45.59.113.168
+www.googlehosts.org	45.59.113.168
+45-59-113-169.googlehosts.org	45.59.113.169
+netlog-viewer.googlehosts.org	45.59.113.169
+45-59-113-172.googlehosts.org	45.59.113.172
+main-ssh.googlehosts.org	45.59.113.172
 # GoogleHosts End
 
 # Akamai Start
@@ -62,9 +66,9 @@ s3-ap-northeast-1.amazonaws.com	52.219.0.4
 s3-ap-southeast-2.amazonaws.com	54.231.249.17
 # Amazon AWS End
 
-# Amazon Start
+# Amazon Japan Start
 amazon.co.jp	52.119.164.121
-www.amazon.co.jp	104.127.195.232
+www.amazon.co.jp	23.13.186.208
 aftlite-portal-nrt.amazon.co.jp	54.239.96.187
 alexa.amazon.co.jp	52.94.210.248
 api.amazon.co.jp	54.240.251.149
@@ -79,7 +83,7 @@ copilot.amazon.co.jp	205.251.235.239
 dropship.amazon.co.jp	54.240.248.163
 cs-ext.amazon.co.jp	54.240.254.58
 endeavour.amazon.co.jp	54.240.252.151
-fls-fe.amazon.co.jp	54.148.215.218
+fls-fe.amazon.co.jp	35.166.79.161
 kdp.amazon.co.jp	54.240.250.189
 kindle-images.amazon.co.jp	176.32.100.154
 kindlepreviewservice.amazon.co.jp	54.240.250.180
@@ -88,13 +92,13 @@ logistics.amazon.co.jp	54.240.254.122
 mt.amazon.co.jp	54.240.248.64
 music.amazon.co.jp	54.240.251.157
 music-xray-service.amazon.co.jp	52.94.212.221
-widgets.amazon.co.jp	54.240.249.62
+widgets.amazon.co.jp	52.119.164.28
 opf-sellercentral.amazon.co.jp	54.240.250.177
 payments.amazon.co.jp	54.240.251.156
 prime.amazon.co.jp	54.240.250.198
 read.amazon.co.jp	54.240.248.131
 shm.amazon.co.jp	52.94.210.139
-# Amazon End
+# Amazon Japan End
 
 # Android Start
 a.android.com	172.217.30.157
@@ -103,10 +107,10 @@ d.android.com	172.217.30.157
 dev.android.com	172.217.30.157
 market.android.com	172.217.30.157
 r.android.com	172.217.30.157
-android.com	108.177.127.136
+android.com	172.217.8.250
 www.android.com	172.217.30.153
-source.android.com	216.58.204.174
-developer.android.com	108.177.127.100
+source.android.com	172.217.8.252
+developer.android.com	172.217.8.249
 # Android End
 
 # Apkpure Start
@@ -169,6 +173,7 @@ betaspike.appspot.com	172.217.161.180
 hstspreload.appspot.com	172.217.161.180
 lfe-alpo-gm.appspot.com	172.217.161.180
 netlog-viewer.appspot.com	172.217.8.244
+go-tour-zh.appspot.com	172.217.14.116
 # Appspotpreview End
 
 # Archive Start
@@ -183,20 +188,12 @@ mail.archive.org	207.241.224.6
 books-general.archive.org	207.241.225.247
 # Archive End
 
-# Armorgames Start
-agi.armorgames.com	192.229.173.251
-armatars.armorgames.com	192.229.173.251
-cache.armorgames.com	192.229.173.251
-gamemedia.armorgames.com	192.229.173.251
-quests.armorgames.com	192.229.173.251
-# Armorgames End
-
 # Arukas Start
 app.arukas.io	27.133.136.8
 # Arukas End
 
 # Avira Start
-search.avira.com	54.93.111.68
+search.avira.com	52.58.235.13
 # Avira End
 
 # Bandwagonhost Start
@@ -205,9 +202,9 @@ bandwagonhost.com	104.20.7.63
 
 # Bbc Start
 www.bbc.com	151.101.8.81
-fig.bbc.co.uk	151.101.40.81
+fig.bbc.co.uk	212.58.244.115
 www.bbc.co.uk	212.58.244.69
-static.bbci.co.uk	104.118.112.225
+static.bbci.co.uk	23.59.2.139
 static.bbc.co.uk	23.199.11.116
 nav.files.bbci.co.uk	104.76.83.32
 ichef.bbci.co.uk	23.42.122.193
@@ -216,30 +213,27 @@ feeds.bbci.co.uk	104.124.234.244
 mybbc.files.bbci.co.uk	23.13.157.61
 polling.bbc.co.uk	23.66.206.133
 search.files.bbci.co.uk	104.72.213.225
-a.files.bbci.co.uk	95.101.92.111
+a.files.bbci.co.uk	184.27.16.168
 gel.files.bbci.co.uk	95.101.15.42
 emp.bbc.com	104.103.150.125
 news.bbcimg.co.uk	23.53.213.148
 mybbc-analytics.files.bbci.co.uk	23.201.173.230
 ssl.bbc.co.uk	212.58.244.114
-push.api.bbci.co.uk	54.72.23.188
-search-suggest.api.bbci.co.uk	52.17.153.208
-ess.api.bbci.co.uk	34.246.1.31
+push.api.bbci.co.uk	13.33.213.226
+search-suggest.api.bbci.co.uk	52.50.202.133
+ess.api.bbci.co.uk	34.240.0.40
 session.bbc.com	212.58.249.134
 account.bbc.com	212.58.244.92
 open.live.bbc.co.uk	212.58.244.78
 # Bbc End
 
 # Box Start
-box.com	107.152.25.196
 app.box.com	107.152.24.198
-account.box.com	107.152.24.197
-upload.box.com	107.152.24.197
 m.box.com	107.152.24.197
 # Box End
 
 # Buzzfeed Start
-img.buzzfeed.com	151.101.1.181
+img.buzzfeed.com	151.101.129.181
 # Buzzfeed End
 
 # cd4o Start
@@ -254,12 +248,13 @@ assets-fe.change.org	104.16.4.13
 # Change.org End
 
 # Cloudfront Start
-d3c33hcgiwev3.cloudfront.net	52.84.167.78
-d3njjcbhbojbot.cloudfront.net	52.84.167.78
+d3njjcbhbojbot.cloudfront.net	52.85.85.246
+d3c33hcgiwev3.cloudfront.net	52.85.83.12
 # Cloudfront End
 
 # Culturalspot Start
-embed.culturalspot.org	172.217.31.96
+embed.culturalspot.org	172.217.14.56
+globetoglobehamlet.culturalspot.org	172.217.14.96
 # Culturalspot End
 
 # Conoha Start
@@ -284,10 +279,10 @@ api.dropboxapi.com	162.125.5.7
 api-d.dropbox.com	162.125.33.7
 api.v.dropbox.com	162.125.34.7
 api-notify.dropbox.com	162.125.34.7
-aem.dropbox.com	54.192.145.52
+aem.dropbox.com	99.84.239.58
 api-content.dropbox.com	162.125.82.8
 api-content-photos.dropbox.com	162.125.82.5
-blogs.dropbox.com	52.222.238.253
+blogs.dropbox.com	13.35.8.95
 block.dropbox.com	162.125.17.132
 block.v.dropbox.com	162.125.17.5
 bolt.dropbox.com	162.125.18.133
@@ -315,7 +310,7 @@ photos-5.dropbox.com	162.125.83.5
 photos-6.dropbox.com	162.125.83.5
 photos-thumb.dropbox.com	162.125.83.5
 photos-thumb.x.dropbox.com	162.125.18.129
-paper.dropbox.com	18.208.123.8
+paper.dropbox.com	54.153.81.237
 status.dropbox.com	54.230.173.90
 snapengage.dropbox.com	54.230.173.29
 dl.dropboxusercontent.com	162.125.7.6
@@ -365,14 +360,22 @@ media.discordapp.net	104.16.251.144
 status.discordapp.com	104.16.10.231
 images-ext-1.discordapp.net	104.16.250.144
 dl.discordapp.net	104.16.250.144
-images-ext-2.discordapp.net	104.16.251.144
+images-ext-2.discordapp.net	104.16.250.144
 cdn.discordapp.com	104.16.10.231
 # Discord End
 
 # Discuss.com.hk Start
 www.discuss.com.hk	104.20.171.49
 m.discuss.com.hk	104.20.171.49
+cdn.discuss.com.hk	104.20.171.49
 tr.discuss.com.hk	104.20.170.49
+ladies.discuss.com.hk	104.20.170.49
+news.discuss.com.hk	104.20.170.49
+finance.discuss.com.hk	104.20.170.49
+mobile.discuss.com.hk	104.20.170.49
+img.discuss.com.hk	104.20.170.49
+digital.discuss.com.hk	104.20.170.49
+computer.discuss.com.hk	104.20.170.49
 # Discuss.com.hk End
 
 # Dynu Start
@@ -497,10 +500,6 @@ threatexchange.fb.com	192.0.66.2
 video.xx.fbcdn.net	157.240.11.18
 # Facebook End
 
-# Fcdm Start
-www.fcdm.cc	103.233.83.89
-# Fcdm End
-
 # FlipBoard Start
 beacon.flipboard.com	52.44.186.59
 fbprod.flipboard.com	34.201.185.200
@@ -508,7 +507,7 @@ fbprod.flipboard.com	34.201.185.200
 
 # Github Start
 gist.github.com	192.30.253.118
-github.com	13.229.188.59
+github.com	192.30.255.112
 www.github.com	192.30.255.110
 # Github End
 
@@ -666,8 +665,8 @@ gcr.io	173.194.198.82
 www.gcr.io	173.194.198.82
 chromium.googlesource.com	108.177.127.82
 gerrit.googlesource.com	108.177.127.82
-android-review.googlesource.com	108.177.127.82
-android.googlesource.com	108.177.127.82
+android-review.googlesource.com	172.217.194.82
+android.googlesource.com	172.217.194.82
 # Google Code End
 
 # Google Country Start
@@ -853,73 +852,73 @@ git.chromium.org	74.125.248.73
 # Google Chrome/Chromium End
 
 # Google Search Country Start
-www.goo.gl	216.58.200.24
-www.google.com.af	216.58.200.24
-www.google.com.ag	216.58.200.24
-www.google.com.ai	216.58.200.24
-www.google.com.ar	216.58.200.24
-www.google.com.au	216.58.200.24
-www.google.com.bd	216.58.200.24
-www.google.com.bh	216.58.200.24
-www.google.com.bn	216.58.200.24
-www.google.com.bo	216.58.200.24
-www.google.com.br	216.58.200.24
-www.google.com.by	216.58.200.24
-www.google.com.bz	216.58.200.24
-www.google.com.co	216.58.200.24
-www.google.com.co.jp	216.58.200.24
-www.google.com.cu	216.58.200.24
-www.google.com.cy	216.58.200.24
-www.google.com.do	216.58.200.24
-www.google.com.ec	216.58.200.24
-www.google.com.eg	216.58.200.24
-www.google.com.et	216.58.200.24
-www.google.com.fj	216.58.200.24
-www.google.com.ge	216.58.200.24
-www.google.com.gh	216.58.200.24
-www.google.com.gi	216.58.200.24
-www.google.com.gr	216.58.200.24
-www.google.com.gt	216.58.200.24
-www.google.com.hk	172.217.30.158
-www.google.com.iq	216.58.200.24
-www.google.com.jm	216.58.200.24
-www.google.com.jo	216.58.200.24
-www.google.com.kh	216.58.200.24
-www.google.com.kw	216.58.200.24
-www.google.com.lb	216.58.200.24
-www.google.com.ly	216.58.200.24
-www.google.com.mm	216.58.200.24
-www.google.com.mt	216.58.200.24
-www.google.com.mx	216.58.200.24
-www.google.com.my	216.58.200.24
-www.google.com.na	216.58.200.24
-www.google.com.nf	216.58.200.24
-www.google.com.ng	216.58.200.24
-www.google.com.ni	216.58.200.24
-www.google.com.np	216.58.200.24
-www.google.com.nr	216.58.200.24
-www.google.com.om	216.58.200.24
-www.google.com.pa	216.58.200.24
-www.google.com.pe	216.58.200.24
-www.google.com.pg	216.58.200.24
-www.google.com.ph	216.58.200.24
-www.google.com.pk	216.58.200.24
-www.google.com.pr	216.58.200.24
-www.google.com.py	216.58.200.24
-www.google.com.qa	216.58.200.24
-www.google.com.ru	216.58.200.24
-www.google.com.sa	216.58.200.24
-www.google.com.sb	216.58.200.24
-www.google.com.sg	216.58.200.24
-www.google.com.sl	216.58.200.24
-www.google.com.sv	216.58.200.24
-www.google.com.tj	216.58.200.24
-www.google.com.tr	216.58.200.24
-www.google.com.tw	172.217.4.163
-www.google.com.ua	216.58.200.24
-www.google.com.uy	216.58.200.24
-www.google.com.vc	216.58.200.24
-www.google.com.vn	216.58.200.24
+www.goo.gl	172.217.160.0
+www.google.com.af	172.217.160.0
+www.google.com.ag	172.217.160.0
+www.google.com.ai	172.217.160.0
+www.google.com.ar	172.217.160.0
+www.google.com.au	172.217.160.0
+www.google.com.bd	172.217.160.0
+www.google.com.bh	172.217.160.0
+www.google.com.bn	172.217.160.0
+www.google.com.bo	172.217.160.0
+www.google.com.br	172.217.160.0
+www.google.com.by	172.217.160.0
+www.google.com.bz	172.217.160.0
+www.google.com.co	172.217.160.0
+www.google.com.co.jp	172.217.160.0
+www.google.com.cu	172.217.160.0
+www.google.com.cy	172.217.160.0
+www.google.com.do	172.217.160.0
+www.google.com.ec	172.217.160.0
+www.google.com.eg	172.217.160.0
+www.google.com.et	172.217.160.0
+www.google.com.fj	172.217.160.0
+www.google.com.ge	172.217.160.0
+www.google.com.gh	172.217.160.0
+www.google.com.gi	172.217.160.0
+www.google.com.gr	172.217.160.0
+www.google.com.gt	172.217.160.0
+www.google.com.hk	172.217.160.0
+www.google.com.iq	172.217.160.0
+www.google.com.jm	172.217.160.0
+www.google.com.jo	172.217.160.0
+www.google.com.kh	172.217.160.0
+www.google.com.kw	172.217.160.0
+www.google.com.lb	172.217.160.0
+www.google.com.ly	172.217.160.0
+www.google.com.mm	172.217.160.0
+www.google.com.mt	172.217.160.0
+www.google.com.mx	172.217.160.0
+www.google.com.my	172.217.160.0
+www.google.com.na	172.217.160.0
+www.google.com.nf	172.217.160.0
+www.google.com.ng	172.217.160.0
+www.google.com.ni	172.217.160.0
+www.google.com.np	172.217.160.0
+www.google.com.nr	172.217.160.0
+www.google.com.om	172.217.160.0
+www.google.com.pa	172.217.160.0
+www.google.com.pe	172.217.160.0
+www.google.com.pg	172.217.160.0
+www.google.com.ph	172.217.160.0
+www.google.com.pk	172.217.160.0
+www.google.com.pr	172.217.160.0
+www.google.com.py	172.217.160.0
+www.google.com.qa	172.217.160.0
+www.google.com.ru	172.217.160.0
+www.google.com.sa	172.217.160.0
+www.google.com.sb	172.217.160.0
+www.google.com.sg	172.217.160.0
+www.google.com.sl	172.217.160.0
+www.google.com.sv	172.217.160.0
+www.google.com.tj	172.217.160.0
+www.google.com.tr	172.217.160.0
+www.google.com.tw	172.217.160.0
+www.google.com.ua	172.217.160.0
+www.google.com.uy	172.217.160.0
+www.google.com.vc	172.217.160.0
+www.google.com.vn	172.217.160.0
 # Google Search Country End
 
 # Google Search Home Start
@@ -928,7 +927,7 @@ p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i1-unicast3.metric.gstatic.com	172.217.
 p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-i2-unicast4.metric.gstatic.com	216.58.200.183
 p5-leclabnbo2pba-vfblo2qjncrb2sk4-328953-s1-v6exp3-v4.metric.gstatic.com	216.58.200.195
 ogs.google.com	108.177.96.161
-www.google.com	172.217.17.36
+www.google.com	172.217.160.0
 id.google.com	108.177.103.161
 clients5.google.com	74.125.204.100
 apis.google.com	108.177.127.99
@@ -2372,8 +2371,9 @@ browserchannel-docs.l.google.com	172.217.31.103
 # Google Service:Docs End
 
 # Google GoLang Start
-golang.org	216.239.37.1
-golang-consa.l.google.com	216.239.37.1
+golang.org	172.217.14.127
+golang-consa.l.google.com	172.217.14.127
+tour.golang.org	172.217.14.128
 # Google GoLang End
 
 # Google Service:Google Play Start
@@ -2770,6 +2770,21 @@ hichannel.hinet.net	211.20.148.228
 id.heroku.com	34.200.95.135
 # Heroku End
 
+# HKGalden Start
+hkgalden.com	104.25.120.37
+www.hkgalden.com	104.25.120.37
+# HKGalden End
+
+# HKGolden Start
+www.hkgolden.com	104.22.12.39
+forum.hkgolden.com	104.22.12.39
+forum8.hkgolden.com	104.22.12.39
+m.hkgolden.com	104.22.12.39
+forum111.hkgolden.com	104.22.12.39
+classbm.hkgolden.com	104.22.12.39
+img.eservice-hk.net	104.25.153.116
+# HKGolden End
+
 # HumbleBundle Start
 humble.pubnub.com	54.250.252.63
 humblebundle.com	104.20.34.236
@@ -3090,8 +3105,10 @@ profile.line-scdn.net	2.17.56.25
 # Line End
 
 # Lihkg Start
-lihkg.com	104.24.15.103
-x.lihkg.com	104.24.16.103
+x.lihkg.com	104.19.139.58
+lihkg.com	104.19.140.58
+graph.lihkg.com	104.19.140.58
+i.lihkg.com	104.19.140.58
 # Lihkg End
 
 # MEGA Start
@@ -3202,49 +3219,49 @@ s-media-cache-ak0.pinimg.com	23.217.143.151
 # Pinterest End
 
 # Pixiv Start
-www.pixiv.net	210.129.120.55
-touch.pixiv.net	210.129.120.43
-source.pixiv.net	210.140.131.146
-accounts.pixiv.net	210.129.120.41
-imgaz.pixiv.net	210.140.131.147
-app-api.pixiv.net	210.129.120.44
-oauth.secure.pixiv.net	210.129.120.48
-dic.pixiv.net	210.129.120.54
-comic.pixiv.net	210.140.131.145
-factory.pixiv.net	210.129.120.53
-g-client-proxy.pixiv.net	74.120.148.205
-sketch.pixiv.net	210.140.170.179
-payment.pixiv.net	210.129.120.52
-sensei.pixiv.net	210.129.120.51
-novel.pixiv.net	210.140.131.144
-ssl.pixiv.net	210.129.120.49
+www.pixiv.net	210.140.131.203
+touch.pixiv.net	210.140.131.204
+source.pixiv.net	210.140.131.205
+accounts.pixiv.net	210.140.131.206
+imgaz.pixiv.net	210.140.131.207
+app-api.pixiv.net	210.140.131.208
+oauth.secure.pixiv.net	210.140.131.209
+dic.pixiv.net	210.140.131.210
+comic.pixiv.net	210.140.131.211
+factory.pixiv.net	210.140.131.212
+g-client-proxy.pixiv.net	18.211.61.121
+sketch.pixiv.net	210.140.131.213
+payment.pixiv.net	210.140.131.214
+sensei.pixiv.net	210.140.131.215
+novel.pixiv.net	210.140.131.216
+ssl.pixiv.net	210.140.131.217
 times.pixiv.net	66.6.32.22
-recruit.pixiv.net	210.129.120.50
-pixiv.net	210.129.120.49
+recruit.pixiv.net	210.140.131.218
+pixiv.net	210.140.131.219
 p2.pixiv.net	122.208.114.218
-matsuri.pixiv.net	52.84.203.238
-m.pixiv.net	210.129.120.46
-iracon.pixiv.net	52.84.203.163
-inside.pixiv.net	52.69.82.228
-i1.pixiv.net	210.140.131.147
-help.pixiv.net	153.120.23.207
-goods.pixiv.net	210.129.120.43
-genepixiv.pr.pixiv.net	210.129.120.40
-festa.pixiv.net	52.84.203.136
-en.dic.pixiv.net	210.129.120.45
+matsuri.pixiv.net	13.35.19.186
+m.pixiv.net	210.140.131.220
+iracon.pixiv.net	13.35.19.88
+inside.pixiv.net	210.140.131.222
+i1.pixiv.net	210.140.131.223
+help.pixiv.net	210.140.131.224
+goods.pixiv.net	210.140.131.225
+genepixiv.pr.pixiv.net	210.140.131.226
+festa.pixiv.net	13.35.19.46
+en.dic.pixiv.net	210.140.131.180
 dev.pixiv.net	52.219.68.134
-chat.pixiv.net	210.129.120.42
+chat.pixiv.net	210.140.131.181
 blog.pixiv.net	122.208.114.218
-embed.pixiv.net	210.129.120.43
-comic-api.pixiv.net	210.129.120.44
-pay.pixiv.net	210.129.120.56
+embed.pixiv.net	210.140.131.182
+comic-api.pixiv.net	210.140.131.183
+pay.pixiv.net	210.140.131.184
 # Pixiv End
 
 # Periscope Start
-pscp.tv	52.76.20.17
-www.pscp.tv	52.220.143.156
-channels.pscp.tv	35.160.65.192
-proxsee.pscp.tv	35.164.70.108
+pscp.tv	13.124.246.138
+www.pscp.tv	13.124.203.13
+channels.pscp.tv	52.39.74.21
+proxsee.pscp.tv	54.200.114.148
 assets.pscp.tv	54.192.73.58
 prod-profile.pscp.tv	54.192.73.58
 prod-thumbnail.pscp.tv	54.192.73.58
@@ -3261,6 +3278,10 @@ prod-chatman-ancillary-eu-central-1.pscp.tv	18.194.108.2
 prod-chatman-ancillary-us-east-1.pscp.tv	34.233.63.45
 prod-chatman-ancillary-us-west-2.pscp.tv	35.160.28.174
 # Periscope End
+
+# ProjectV Start
+www.v2ray.com	104.27.154.107
+# ProjectV End
 
 # Psiphon Start
 psiphon3.com	54.192.75.124
@@ -3379,6 +3400,13 @@ theinitium.com	52.221.46.214
 api.theinitium.com	52.221.46.214
 # Theinitium End
 
+# TopickHK Start
+topick.hket.com	118.143.30.216
+inlog01.hket.com	118.143.30.165
+static01.hket.com	118.143.30.220
+plus.hket.com	118.143.30.175
+# TopickHK End
+
 # Tumblr Start
 tumblr.com	119.161.14.19
 www.tumblr.com	119.161.14.20
@@ -3487,38 +3515,38 @@ trac.torproject.org	138.201.212.227
 
 # Twitch Start
 twitch.tv	151.101.66.167
-app.twitch.tv	54.254.165.93
-api.twitch.tv	23.12.207.125
-badges.twitch.tv	54.200.101.68
+www.twitch.tv	151.101.230.167
+app.twitch.tv	54.84.222.78
+api.twitch.tv	104.94.41.138
+badges.twitch.tv	52.40.25.185
 blog.twitch.tv	52.4.145.119
+client-event-reporter.twitch.tv	52.26.110.179
 cvp.twitch.tv	23.12.207.125
-countess.twitch.tv	54.69.121.1
-dev.twitch.tv	52.84.222.121
+countess.twitch.tv	34.216.28.142
+dev.twitch.tv	52.84.47.22
 discuss.dev.twitch.tv	52.39.89.40
+extension-files.twitch.tv	54.192.151.87
 gql.twitch.tv	151.101.110.167
-help.twitch.tv	50.18.57.118
-player.twitch.tv	23.12.207.125
-passport.twitch.tv	35.160.111.213
+help.twitch.tv	184.169.164.174
+player.twitch.tv	23.77.13.84
+passport.twitch.tv	54.71.196.178
 spade.twitch.tv	35.161.182.231
 trowel.twitch.tv	34.212.220.91
 music.twitch.tv	35.185.17.162
 spade.sci.twitch.tv	54.69.142.1
-clips-media-assets2.twitch.tv	54.230.159.250
-vod-storyboards.twitch.tv	54.230.159.146
-client-event-reporter.twitch.tv	52.27.93.163
-pubsub-edge.twitch.tv	54.68.186.105
-irc-ws.chat.twitch.tv	50.112.132.198
-video-edge-3d9f56.sjc02.hls.ttvnw.net	52.42.180.194
-video-edge-5fbf1c.sjc02.hls.ttvnw.net	54.149.124.198
-video-edge-5835af.sjc02.hls.ttvnw.net	52.43.201.49
-video-edge-6c67c0.sjc02.hls.ttvnw.net	54.187.252.230
-video-edge-75ad0a.sjc02.hls.ttvnw.net	52.40.222.98
-video-edge-8e57c7.sjc02.hls.ttvnw.net	52.43.168.169
-video-edge-87714e.sjc02.hls.ttvnw.net	52.88.54.25
-video-edge-aed56b.sjc02.hls.ttvnw.net	52.89.48.200
-video-edge-db8460.sjc02.hls.ttvnw.net	35.163.203.219
-video-edge-e0871b.sjc02.hls.ttvnw.net	54.148.18.99
-video-edge-f9215f.sjc02.hls.ttvnw.net	54.187.95.61
+clips-media-assets2.twitch.tv	54.192.151.22
+usher.ttvnw.net	23.160.0.254
+vod-storyboards.twitch.tv	54.192.151.7
+pubsub-edge.twitch.tv	52.24.180.27
+irc-ws.chat.twitch.tv	35.164.18.6
+video-weaver.sjc02.hls.ttvnw.net	52.223.241.18
+video-edge-6c210a.sjc02.hls.ttvnw.net	54.200.235.249
+video-edge-91c358.sjc02.hls.ttvnw.net	52.24.56.73
+video-edge-98de7c.sjc02.hls.ttvnw.net	54.191.74.73
+video-edge-a37110.sjc02.abs.hls.ttvnw.net	52.223.253.59
+video-edge-a4da6d.sjc02.hls.ttvnw.net	52.41.6.153
+video-edge-af973f.sjc02.hls.ttvnw.net	35.165.41.164
+video-edge-7ea270.sjc02.abs.hls.ttvnw.net	52.223.252.212
 # Twitch End
 
 # Twitter Start
@@ -3601,6 +3629,15 @@ suche.web.de	82.165.229.94
 lokale.suche.web.de	54.93.172.67
 # Web.de End
 
+# Webtype Start
+cloud.webtype.com	72.21.91.41
+# Webtype End
+
+# WikiLeaks Start
+wikileaks.org	95.211.113.131
+www.wikileaks.org	95.211.113.131
+# WikiLeaks End
+
 # Wikinews Start
 zh.wikinews.org	198.35.26.96
 zh.m.wikinews.org	198.35.26.96
@@ -3679,6 +3716,10 @@ s.ytimg.com	216.58.217.174
 www.youtube.com	64.15.118.42
 m.youtube.com	216.58.194.46
 # Youtube End
+
+# You-get Start
+you-get.org	104.31.79.57
+# You-get End
 
 # Google 1e100 Start
 ams15s21-in-f1.1e100.net	74.125.67.1
