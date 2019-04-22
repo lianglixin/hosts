@@ -68,40 +68,6 @@ add address=52.219.4.104 name=s3-ap-northeast-1.amazonaws.com
 add address=54.231.249.17 name=s3-ap-southeast-2.amazonaws.com
 # Amazon AWS End
 
-# Amazon Japan Start
-add address=52.119.164.121 name=amazon.co.jp
-add address=23.13.186.208 name=www.amazon.co.jp
-add address=54.239.96.187 name=aftlite-portal-nrt.amazon.co.jp
-add address=52.94.210.248 name=alexa.amazon.co.jp
-add address=54.240.251.149 name=api.amazon.co.jp
-add address=52.119.168.241 name=arap.amazon.co.jp
-add address=54.240.248.126 name=www.artistcentral.amazon.co.jp
-add address=54.240.250.160 name=astore.amazon.co.jp
-add address=52.94.211.66 name=brandregistry.amazon.co.jp
-add address=54.240.248.142 name=catalog-sc.amazon.co.jp
-add address=54.240.248.108 name=cde-ta-g7g-sha-proxy.amazon.co.jp
-add address=52.94.210.103 name=completion.amazon.co.jp
-add address=205.251.235.239 name=copilot.amazon.co.jp
-add address=54.240.248.163 name=dropship.amazon.co.jp
-add address=54.240.254.58 name=cs-ext.amazon.co.jp
-add address=54.240.252.151 name=endeavour.amazon.co.jp
-add address=35.166.79.161 name=fls-fe.amazon.co.jp
-add address=54.240.250.189 name=kdp.amazon.co.jp
-add address=176.32.100.154 name=kindle-images.amazon.co.jp
-add address=54.240.250.180 name=kindlepreviewservice.amazon.co.jp
-add address=54.240.250.59 name=kuato.amazon.co.jp
-add address=54.240.254.122 name=logistics.amazon.co.jp
-add address=54.240.248.64 name=mt.amazon.co.jp
-add address=54.240.251.157 name=music.amazon.co.jp
-add address=52.94.212.221 name=music-xray-service.amazon.co.jp
-add address=52.119.164.28 name=widgets.amazon.co.jp
-add address=54.240.250.177 name=opf-sellercentral.amazon.co.jp
-add address=54.240.251.156 name=payments.amazon.co.jp
-add address=54.240.250.198 name=prime.amazon.co.jp
-add address=54.240.248.131 name=read.amazon.co.jp
-add address=52.94.210.139 name=shm.amazon.co.jp
-# Amazon Japan End
-
 # Android Start
 add address=172.217.30.157 name=a.android.com
 add address=172.217.30.157 name=connectivitycheck.android.com
@@ -119,10 +85,6 @@ add address=172.217.8.249 name=developer.android.com
 add address=104.20.82.194 name=apkpure.com
 add address=104.20.82.194 name=m.apkpure.com
 # Apkpure End
-
-# Apkmirror Start
-add address=104.19.133.58 name=www.apkmirror.com
-# Apkmirror End
 
 # Appspot Start
 add address=172.217.168.209 name=www.appspot.com
@@ -181,7 +143,6 @@ add address=172.217.14.116 name=go-tour-zh.appspot.com
 # Archive Start
 add address=207.241.224.4 name=archive.org
 add address=207.241.224.4 name=www.archive.org
-add address=207.241.225.95 name=analytics.archive.org
 add address=207.241.225.186 name=web-beta.archive.org
 add address=207.241.225.186 name=wwwb-sentry.us.archive.org
 add address=207.241.225.186 name=web.archive.org
@@ -201,48 +162,13 @@ add address=52.59.33.68 name=search.avira.com
 add address=104.20.7.63 name=bandwagonhost.com
 # Bandwagonhost End
 
-# Bbc Start
-add address=151.101.8.81 name=www.bbc.com
-add address=212.58.244.115 name=fig.bbc.co.uk
-add address=212.58.244.69 name=www.bbc.co.uk
-add address=23.59.2.139 name=static.bbci.co.uk
-add address=23.199.11.116 name=static.bbc.co.uk
-add address=104.76.83.32 name=nav.files.bbci.co.uk
-add address=23.42.122.193 name=ichef.bbci.co.uk
-add address=23.73.186.251 name=m.files.bbci.co.uk
-add address=125.56.212.236 name=feeds.bbci.co.uk
-add address=23.13.157.61 name=mybbc.files.bbci.co.uk
-add address=23.66.206.133 name=polling.bbc.co.uk
-add address=104.72.213.225 name=search.files.bbci.co.uk
-add address=184.27.16.168 name=a.files.bbci.co.uk
-add address=95.101.15.42 name=gel.files.bbci.co.uk
-add address=104.103.150.125 name=emp.bbc.com
-add address=23.53.213.148 name=news.bbcimg.co.uk
-add address=23.201.173.230 name=mybbc-analytics.files.bbci.co.uk
-add address=212.58.244.114 name=ssl.bbc.co.uk
-add address=13.33.213.226 name=push.api.bbci.co.uk
-add address=52.31.189.25 name=search-suggest.api.bbci.co.uk
-add address=34.245.252.9 name=ess.api.bbci.co.uk
-add address=212.58.249.134 name=session.bbc.com
-add address=212.58.244.92 name=account.bbc.com
-add address=212.58.244.78 name=open.live.bbc.co.uk
-# Bbc End
-
 # Box Start
 add address=107.152.24.198 name=app.box.com
 add address=107.152.24.197 name=m.box.com
 # Box End
 
 # Buzzfeed Start
-add address=151.101.2.114 name=img.buzzfeed.com
 # Buzzfeed End
-
-# Change.org Start
-add address=104.16.5.13 name=www.change.org
-add address=104.16.5.13 name=assets.change.org
-add address=104.16.4.13 name=change.org
-add address=104.16.4.13 name=assets-fe.change.org
-# Change.org End
 
 # Cloudfront Start
 add address=52.85.85.246 name=d3njjcbhbojbot.cloudfront.net
