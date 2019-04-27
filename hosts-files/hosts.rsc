@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-04-17
+# Last updated: 2019-04-25
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -27,8 +27,10 @@ add address=107.174.203.60 name=107-174-203-60.googlehosts.org
 add address=107.174.203.60 name=tg-5.googlehosts.org
 add address=45.124.64.82 name=45-124-64-82.googlehosts.org
 add address=45.124.64.82 name=tg-6.googlehosts.org
+add address=117.50.61.150 name=117-50-61-150.googlehosts.org
+add address=117.50.61.150 name=tg-7.googlehosts.org
 add address=106.75.2.132 name=106-75-2-132.googlehosts.org
-add address=106.75.2.132 name=tg-7.googlehosts.org
+add address=106.75.2.132 name=tg-7-b.googlehosts.org
 add address=185.122.58.249 name=185-122-58-249.googlehosts.org
 add address=185.122.58.249 name=tg-8.googlehosts.org
 add address=103.105.48.234 name=103-105-48-234.googlehosts.org
@@ -125,6 +127,7 @@ add address=104.19.133.58 name=www.apkmirror.com
 # Apkmirror End
 
 # Appspot Start
+# Pending fix
 add address=172.217.168.209 name=www.appspot.com
 add address=172.217.168.209 name=appspot.com
 add address=172.217.168.209 name=events.withgoogle.com
@@ -159,6 +162,7 @@ add address=172.217.168.209 name=spellup.withgoogle.com
 # Appspot End
 
 # Appspotpreview Start
+# Pending fix
 add address=172.217.161.180 name=author-dot-betaspike.appspot.com
 add address=172.217.161.180 name=jmoore-dot-android-experiments.appspot.com
 add address=172.217.161.180 name=mission-author-dot-betaspike.appspot.com
@@ -182,9 +186,9 @@ add address=172.217.14.116 name=go-tour-zh.appspot.com
 add address=207.241.224.4 name=archive.org
 add address=207.241.224.4 name=www.archive.org
 add address=207.241.225.95 name=analytics.archive.org
-add address=207.241.225.186 name=web-beta.archive.org
-add address=207.241.225.186 name=wwwb-sentry.us.archive.org
-add address=207.241.225.186 name=web.archive.org
+add address=207.241.233.214 name=web-beta.archive.org
+add address=207.241.233.214 name=wwwb-sentry.us.archive.org
+add address=207.241.233.214 name=web.archive.org
 add address=207.241.224.6 name=mail.archive.org
 add address=207.241.225.247 name=books-general.archive.org
 # Archive End
@@ -245,13 +249,14 @@ add address=104.16.4.13 name=assets-fe.change.org
 # Change.org End
 
 # Cloudfront Start
-add address=52.85.85.246 name=d3njjcbhbojbot.cloudfront.net
+add address=13.33.25.77 name=d3njjcbhbojbot.cloudfront.net
 add address=52.85.83.12 name=d3c33hcgiwev3.cloudfront.net
 # Cloudfront End
 
 # Culturalspot Start
-add address=172.217.14.56 name=embed.culturalspot.org
-add address=172.217.14.96 name=globetoglobehamlet.culturalspot.org
+# Pending fix
+add address=216.58.200.238 name=embed.culturalspot.org
+add address=216.58.200.238 name=globetoglobehamlet.culturalspot.org
 # Culturalspot End
 
 # Conoha Start
@@ -266,7 +271,32 @@ add address=63.141.239.58 name=ctext.org
 add address=63.141.239.58 name=library.ctext.org
 # Ctext End
 
+# DeviantArt Start
+add address=52.85.220.219 name=deviantart.com
+add address=52.85.220.244 name=www.deviantart.com
+add address=52.85.154.135 name=amazing-animal-art.deviantart.com
+add address=54.230.231.64 name=bugidifino.deviantart.com
+add address=52.85.154.83 name=bunny-no.deviantart.com
+add address=52.85.154.133 name=chipmunkrulz.deviantart.com
+add address=54.230.231.59 name=forum.deviantart.com
+add address=54.192.163.36 name=fifi9322.deviantart.com
+add address=54.192.163.44 name=groups.deviantart.com
+add address=54.192.163.47 name=imstarving.deviantart.com
+add address=54.192.163.36 name=isis-moon.deviantart.com
+add address=52.85.154.83 name=shop.deviantart.com
+add address=52.32.58.1 name=deviantart.net
+add address=99.84.104.122 name=st.deviantart.net
+add address=99.84.104.23 name=a.deviantart.net
+add address=99.84.104.59 name=e.deviantart.net
+add address=99.84.104.59 name=i.deviantart.net
+add address=52.84.150.14 name=pre00.deviantart.net
+add address=99.84.254.116 name=orig00.deviantart.net
+add address=99.84.254.32 name=t00.deviantart.net
+add address=13.33.47.221 name=film00.deviantart.net
+# DeviantArt End
+
 # Dropbox Start
+# Pending fix
 add address=162.125.248.2 name=db.tt
 add address=162.125.248.1 name=www.dropbox.com
 add address=162.125.248.1 name=www.dualstack.dropbox-dns.com
@@ -498,8 +528,8 @@ add address=157.240.11.18 name=video.xx.fbcdn.net
 # Facebook End
 
 # FlipBoard Start
-add address=52.44.186.59 name=beacon.flipboard.com
-add address=34.201.185.200 name=fbprod.flipboard.com
+add address=13.33.208.8 name=beacon.flipboard.com
+add address=13.33.208.8 name=fbprod.flipboard.com
 # FlipBoard End
 
 # Github Start
@@ -528,8 +558,8 @@ add address=82.165.230.43 name=search.gmx.com
 # Gmx End
 
 # Goodreads Start
-add address=176.32.103.89 name=www.goodreads.com
-add address=176.32.102.212 name=ads.goodreads.com
+add address=54.239.26.220 name=www.goodreads.com
+add address=205.251.242.64 name=ads.goodreads.com
 # Goodreads End
 
 # Google Apis Start
@@ -2761,10 +2791,11 @@ add address=108.177.120.94 name=mt7.gstatic.com
 
 # Hinet Start
 add address=211.20.148.228 name=hichannel.hinet.net
+add address=202.39.143.235 name=radio-hichannel.cdn.hinet.net
 # Hinet End
 
 # Heroku Start
-add address=34.200.95.135 name=id.heroku.com
+add address=52.200.255.123 name=id.heroku.com
 # Heroku End
 
 # HKGalden Start
@@ -2783,10 +2814,9 @@ add address=104.25.153.116 name=img.eservice-hk.net
 # HKGolden End
 
 # HumbleBundle Start
-add address=54.250.252.63 name=humble.pubnub.com
+add address=54.249.82.168 name=humble.pubnub.com
 add address=104.20.34.236 name=humblebundle.com
 add address=52.36.140.12 name=pubnub.com
-add address=216.58.200.243 name=www.humblebundle.com
 # HumbleBundle End
 
 # Hkjc Start
@@ -2798,23 +2828,24 @@ add address=101.78.207.158 name=football.hkjc.com
 # Hkjc End
 
 # imgur Start
-add address=151.101.100.193 name=imgur.com
-add address=151.101.100.193 name=m.imgur.com
-add address=151.101.100.193 name=api.imgur.com
-add address=151.101.100.193 name=www.imgur.com
-add address=151.101.100.193 name=store.imgur.com
-add address=151.101.100.193 name=s.imgur.com
-add address=151.101.100.193 name=p.imgur.com
-add address=151.101.100.193 name=i.imgur.com
+add address=151.101.40.193 name=imgur.com
+add address=151.101.40.193 name=m.imgur.com
+add address=151.101.40.193 name=api.imgur.com
+add address=151.101.40.193 name=www.imgur.com
+add address=151.101.40.193 name=store.imgur.com
+add address=151.101.40.193 name=s.imgur.com
+add address=151.101.40.193 name=p.imgur.com
+add address=151.101.40.193 name=i.imgur.com
+add address=101.78.207.158 name=i.stack.imgur.com
 # imgur End
 
 # Ingress Start
-add address=54.193.15.78 name=appload.ingest.crittercism.com
-add address=54.193.15.78 name=api.crittercism.com
+add address=52.9.109.157 name=appload.ingest.crittercism.com
+add address=54.241.32.12 name=api.crittercism.com
 add address=54.193.253.0 name=txn.ingest.crittercism.com
-add address=169.44.145.200 name=bootstrap.upsight-api.com
-add address=169.44.145.200 name=single.upsight-api.com
-add address=169.44.145.200 name=batch.upsight-api.com
+add address=169.44.145.204 name=bootstrap.upsight-api.com
+add address=169.44.145.204 name=single.upsight-api.com
+add address=169.44.145.204 name=batch.upsight-api.com
 # Ingress End
 
 # Instagram Start
@@ -2959,7 +2990,7 @@ add address=52.72.26.162 name=www.issuu.com
 add address=52.72.26.162 name=developers.issuu.com
 add address=52.72.26.162 name=page.issuu.com
 add address=66.6.32.22 name=blog.issuu.com
-add address=54.80.162.85 name=pingback.issuu.com
+add address=35.241.35.151 name=pingback.issuu.com
 add address=151.101.65.63 name=photo.issuu.com
 add address=151.101.65.63 name=image.issuu.com
 add address=151.101.65.63 name=content.issuu.com
@@ -2967,7 +2998,7 @@ add address=151.101.65.63 name=e.issuu.com
 add address=151.101.65.63 name=static.issuu.com
 add address=151.101.65.63 name=skin.issuu.com
 add address=52.1.172.141 name=api.issuu.com
-add address=34.205.198.51 name=help.issuu.com
+add address=104.16.53.111 name=help.issuu.com
 # issuu End
 
 # Kik Start
@@ -3298,6 +3329,15 @@ add address=140.112.172.1 name=ptt.cc
 # Quora Start
 add address=192.229.189.142 name=www.quora.com
 # Quora End
+
+# Rakuten Start
+add address=133.237.50.6 name=rd.rakuten.co.jp
+add address=133.237.61.71 name=esearch.rakuten.co.jp
+add address=23.40.72.233 name=www.rakuten.co.jp
+add address=40.115.251.146 name=globalexpress.rakuten.co.jp
+add address=96.7.133.108 name=books.rakuten.co.jp
+add address=96.7.133.108 name=search.rakuten.co.jp
+# Rakuten End
 
 # RawGit Start
 add address=198.232.125.81 name=cdn.rawgit.com

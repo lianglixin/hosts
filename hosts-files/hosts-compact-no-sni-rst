@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-04-17
+# Last updated: 2019-04-25
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -15,7 +15,8 @@
 185.200.34.209	185-200-34-209.googlehosts.org tg-4.googlehosts.org
 107.174.203.60	107-174-203-60.googlehosts.org tg-5.googlehosts.org
 45.124.64.82	45-124-64-82.googlehosts.org tg-6.googlehosts.org
-106.75.2.132	106-75-2-132.googlehosts.org tg-7.googlehosts.org
+117.50.61.150	117-50-61-150.googlehosts.org tg-7.googlehosts.org
+106.75.2.132	106-75-2-132.googlehosts.org tg-7-b.googlehosts.org
 185.122.58.249	185-122-58-249.googlehosts.org tg-8.googlehosts.org
 103.105.48.234	103-105-48-234.googlehosts.org tg-9.googlehosts.org
 23.226.136.24	23-226-136-24.googlehosts.org ss-1.googlehosts.org
@@ -46,56 +47,38 @@
 172.217.8.244	netlog-viewer.appspot.com
 172.217.14.116	go-tour-zh.appspot.com
 207.241.224.4	archive.org www.archive.org
-207.241.225.186	web-beta.archive.org wwwb-sentry.us.archive.org web.archive.org
 207.241.224.6	mail.archive.org
-207.241.225.247	books-general.archive.org
 27.133.136.8	app.arukas.io
 52.59.33.68	search.avira.com
 104.20.7.63	bandwagonhost.com
 107.152.24.198	app.box.com
 107.152.24.197	m.box.com
-52.85.85.246	d3njjcbhbojbot.cloudfront.net
+13.33.25.77	d3njjcbhbojbot.cloudfront.net
 52.85.83.12	d3c33hcgiwev3.cloudfront.net
-172.217.14.56	embed.culturalspot.org
-172.217.14.96	globetoglobehamlet.culturalspot.org
+216.58.200.238	embed.culturalspot.org globetoglobehamlet.culturalspot.org
 157.7.225.122	cp.conoha.jp
 150.95.236.28	www.conoha.jp
 150.95.236.52	app.conoha.jp
 150.95.236.31	manage.conoha.jp
 63.141.239.58	ctext.org library.ctext.org
-162.125.248.2	db.tt
-162.125.248.1	www.dropbox.com www.dualstack.dropbox-dns.com
-162.125.5.7	api.dropbox.com api.dualstack.dropbox-dns.com api.dropboxapi.com
-162.125.33.7	api-d.dropbox.com
-162.125.34.7	api.v.dropbox.com api-notify.dropbox.com
-99.84.239.58	aem.dropbox.com
-162.125.82.8	api-content.dropbox.com
-162.125.82.5	api-content-photos.dropbox.com
-13.35.8.95	blogs.dropbox.com
-162.125.17.132	block.dropbox.com
-162.125.17.5	block.v.dropbox.com
-162.125.18.133	bolt.dropbox.com
-162.125.65.3	client.dropbox.com client-cf.dropbox.com
-162.125.32.137	client.v.dropbox.com
-162.125.80.3	client-lb.dropbox.com client-web.dropbox.com
-162.125.32.135	d.dropbox.com d.v.dropbox.com
-162.125.83.6	dl.dropbox.com dl-web.dropbox.com dl-doc.dropbox.com
-54.236.121.227	dl-debug.dropbox.com
-13.35.8.71	forums.dropbox.com
-13.35.99.72	linux.dropbox.com
-162.125.80.2	m.dropbox.com
-54.230.173.117	marketing.dropbox.com
-162.125.66.5	photos.dropbox.com
-162.125.83.5	photos-1.dropbox.com photos-2.dropbox.com photos-3.dropbox.com photos-4.dropbox.com photos-5.dropbox.com photos-6.dropbox.com photos-thumb.dropbox.com
-162.125.18.129	photos-thumb.x.dropbox.com
-54.153.81.237	paper.dropbox.com
-54.230.173.90	status.dropbox.com
-54.230.173.29	snapengage.dropbox.com
-162.125.7.6	dl.dropboxusercontent.com
-162.125.33.9	www.dropboxstatic.com dbxlocal.dropboxstatic.com
-104.16.100.29	cfl.dropboxstatic.com
-54.230.175.68	cf.dropboxstatic.com
-162.125.82.2	log.getdropbox.com
+52.85.220.219	deviantart.com
+52.85.220.244	www.deviantart.com
+52.85.154.135	amazing-animal-art.deviantart.com
+54.230.231.64	bugidifino.deviantart.com
+52.85.154.83	bunny-no.deviantart.com shop.deviantart.com
+52.85.154.133	chipmunkrulz.deviantart.com
+54.230.231.59	forum.deviantart.com
+54.192.163.36	fifi9322.deviantart.com isis-moon.deviantart.com
+54.192.163.44	groups.deviantart.com
+54.192.163.47	imstarving.deviantart.com
+52.32.58.1	deviantart.net
+99.84.104.122	st.deviantart.net
+99.84.104.23	a.deviantart.net
+99.84.104.59	e.deviantart.net i.deviantart.net
+52.84.150.14	pre00.deviantart.net
+99.84.254.116	orig00.deviantart.net
+99.84.254.32	t00.deviantart.net
+13.33.47.221	film00.deviantart.net
 13.210.167.213	duckduckgo.com www.duckduckgo.com ac.duckduckgo.com start.duckduckgo.com help.duckduckgo.com
 23.21.193.169	icons.duckduckgo.com proxy.duckduckgo.com images.duckduckgo.com
 151.101.0.134	disqus.com
@@ -120,15 +103,7 @@
 104.20.171.49	www.discuss.com.hk m.discuss.com.hk cdn.discuss.com.hk
 104.20.170.49	tr.discuss.com.hk ladies.discuss.com.hk news.discuss.com.hk finance.discuss.com.hk mobile.discuss.com.hk img.discuss.com.hk digital.discuss.com.hk computer.discuss.com.hk
 207.38.70.29	www.dynu.com
-157.240.7.35	www.facebook.com fb.me facebook.com api.facebook.com apps.facebook.com attachments.facebook.com business.facebook.com bigzipfiles.facebook.com code.facebook.com check4.facebook.com check6.facebook.com connect.facebook.com d.facebook.com developers.facebook.com graph.facebook.com l.facebook.com login.facebook.com m.facebook.com mtouch.facebook.com mqtt.facebook.com mqtt-mini.facebook.com orcart.facebook.com pixel.facebook.com scontent.facebook.com ssl.facebook.com star.facebook.com secure.facebook.com staticxx.facebook.com touch.facebook.com upload.facebook.com vupload.facebook.com vupload2.facebook.com api-read.facebook.com b-api.facebook.com b-graph.facebook.com s-static.facebook.com zh-cn.facebook.com zh-tw.facebook.com edge-chat.facebook.com 0-edge-chat.facebook.com 1-edge-chat.facebook.com 2-edge-chat.facebook.com 3-edge-chat.facebook.com 4-edge-chat.facebook.com 5-edge-chat.facebook.com 6-edge-chat.facebook.com channel-ecmp-05-ash3.facebook.com channel-staging-ecmp-05-ash3.facebook.com channel-testing-ecmp-05-ash3.facebook.com beta-chat-01-05-ash3.facebook.com s-static.ak.facebook.com star.c10r.facebook.com fbcdn.net connect.facebook.net ent-a.xx.fbcdn.net ent-b.xx.fbcdn.net ent-c.xx.fbcdn.net ent-d.xx.fbcdn.net ent-e.xx.fbcdn.net scontent.xx.fbcdn.net scontent-a.xx.fbcdn.net scontent-b.xx.fbcdn.net scontent-c.xx.fbcdn.net scontent-d.xx.fbcdn.net scontent-e.xx.fbcdn.net scontent-mxp.xx.fbcdn.net scontent-a-lax.xx.fbcdn.net scontent-a-sin.xx.fbcdn.net scontent-b-lax.xx.fbcdn.net scontent-b-sin.xx.fbcdn.net static.thefacebook.com attachment.fbsbx.com messenger.com www.messenger.com 0-edge-chat.messenger.com 1-edge-chat.messenger.com 2-edge-chat.messenger.com 3-edge-chat.messenger.com 4-edge-chat.messenger.com 5-edge-chat.messenger.com 6-edge-chat.messenger.com
-31.13.95.33	snaptu-z.facebook.com snaptu-p1.facebook.com snaptu-p2.facebook.com
-31.13.95.5	edge-mqtt.facebook.com
-192.0.78.13	instantarticles.fb.com live.fb.com managingbias.fb.com nonprofits.fb.com rightsmanager.fb.com techprep.fb.com work.fb.com
-31.13.91.15	static.xx.fbcdn.net scontent-lax3-1.xx.fbcdn.net scontent-lax3-2.xx.fbcdn.net scontent-lax3-3.xx.fbcdn.net scontent-lax3-4.xx.fbcdn.net scontent-hkg3-1.xx.fbcdn.net scontent-hkg3-2.xx.fbcdn.net scontent-hkg3-3.xx.fbcdn.net z-1-scontent.xx.fbcdn.net video-lax3-1.xx.fbcdn.net video-lax3-2.xx.fbcdn.net video-lax3-3.xx.fbcdn.net video-lax3-4.xx.fbcdn.net video-mrs1-1.xx.fbcdn.net video-mrs1-2.xx.fbcdn.net video-mrs1-3.xx.fbcdn.net video-mrs1-4.xx.fbcdn.net video-hkg3-1.xx.fbcdn.net video-sit4-1.xx.fbcdn.net external.xx.fbcdn.net
-192.0.66.2	messengerplatform.fb.com threatexchange.fb.com
-157.240.11.18	video.xx.fbcdn.net
-52.44.186.59	beacon.flipboard.com
-34.201.185.200	fbprod.flipboard.com
+13.33.208.8	beacon.flipboard.com fbprod.flipboard.com
 192.30.253.118	gist.github.com
 192.30.255.112	github.com
 192.30.255.110	www.github.com
@@ -143,8 +118,8 @@
 172.217.168.71	filetransferenabled.mail.google.com
 172.217.168.39	isolated.mail.google.com
 82.165.230.43	search.gmx.com
-176.32.103.89	www.goodreads.com
-176.32.102.212	ads.goodreads.com
+54.239.26.220	www.goodreads.com
+205.251.242.64	ads.goodreads.com
 216.58.204.202	www.googleapis.com
 172.217.168.202	ajax.googleapis.com googleapis.com android.googleapis.com appinvite-pa.googleapis.com appinvite-ipv4-pa.googleapis.com redirector-bigcache.googleapis.com bigcache.googleapis.com ct.googleapis.com chart.googleapis.com chart.apis.google.com content.googleapis.com datasaver.googleapis.com device-provisioning.googleapis.com youtube.googleapis.com youtubei.googleapis.com appengine.clients6.google.com bigtableadmin.clients6.google.com clouddebugger.clients6.google.com cloudconfig.clients6.google.com cloudpersonalization-pa.clients6.google.com cloudsupport.clients6.google.com cloudusersettings-pa.clients6.google.com dataflow.clients6.google.com datahub.clients6.google.com firebasestorage.googleapis.com firebasedurablelinks-pa.clients6.google.com firebaserules.clients6.google.com firebasestorage.clients6.google.com gcmcontextualcampaign-pa.clients6.google.com growth-pa.googleapis.com instantmessaging-pa.googleapis.com khms0.googleapis.com khms1.googleapis.com logging.clients6.google.com maps.googleapis.com memcache.clients6.google.com ml.clients6.google.com mts0.googleapis.com mts1.googleapis.com mts2.googleapis.com mts3.googleapis.com mobilecrashreporting.clients6.google.com mobilesdk-pa.clients6.google.com opensourceprojects-pa.googleapis.com photos.googleapis.com plus.googleapis.com reminders-pa.clients6.google.com securetoken.googleapis.com remoting-pa.googleapis.com personalsafety-pa.googleapis.com clientmetrics-pa.googleapis.com music-pa.clients6.google.com
 108.177.127.201	fonts.googleapis.com
@@ -221,84 +196,23 @@
 108.177.127.132	lh3.ggpht.com lh4.ggpht.com lh5.ggpht.com lh6.ggpht.com
 216.58.221.65	yt3.ggpht.com
 211.20.148.228	hichannel.hinet.net
-34.200.95.135	id.heroku.com
+202.39.143.235	radio-hichannel.cdn.hinet.net
+52.200.255.123	id.heroku.com
 104.25.120.37	hkgalden.com www.hkgalden.com
 104.22.12.39	www.hkgolden.com forum.hkgolden.com forum8.hkgolden.com m.hkgolden.com forum111.hkgolden.com classbm.hkgolden.com
 104.25.153.116	img.eservice-hk.net
-54.250.252.63	humble.pubnub.com
+54.249.82.168	humble.pubnub.com
 104.20.34.236	humblebundle.com
 52.36.140.12	pubnub.com
-216.58.200.243	www.humblebundle.com
 101.78.207.166	www.hkjc.com
 203.82.9.18	bet.hkjc.com
 101.78.207.157	common.hkjc.com
 203.86.162.153	search.hkjc.com
 101.78.207.158	football.hkjc.com
-151.101.100.193	imgur.com m.imgur.com api.imgur.com www.imgur.com store.imgur.com s.imgur.com p.imgur.com i.imgur.com
-54.193.15.78	appload.ingest.crittercism.com api.crittercism.com
+52.9.109.157	appload.ingest.crittercism.com
+54.241.32.12	api.crittercism.com
 54.193.253.0	txn.ingest.crittercism.com
-169.44.145.200	bootstrap.upsight-api.com single.upsight-api.com batch.upsight-api.com
-31.13.82.172	instagram.com
-31.13.82.174	www.instagram.com scontent-a-nrt.cdninstagram.com scontent-b-nrt.cdninstagram.com scontent-nrt1-1.cdninstagram.com
-157.240.15.174	badges.instagram.com graph.instagram.com scontent-a.cdninstagram.com scontent-b.cdninstagram.com
-157.240.15.63	logger.instagram.com maps.instagram.com
-52.45.94.103	i.instagram.com api.instagram.com
-31.13.76.172	help.instagram.com platform.instagram.com
-66.6.32.22	blog.instagram.com blog.issuu.com times.pixiv.net
-23.55.56.140	images.ak.instagram.com
-23.32.241.16	static.ak.instagram.com
-31.13.87.52	scontent.cdninstagram.com scontent-a-tpe.cdninstagram.com scontent-b-tpe.cdninstagram.com scontent-tpe1-1.cdninstagram.com
-31.13.91.52	scontent-a-ams.cdninstagram.com scontent-b-ams.cdninstagram.com scontent-ams3-1.cdninstagram.com
-31.13.91.172	scontent-a-amt.cdninstagram.com scontent-b-amt.cdninstagram.com scontent-amt2-1.cdninstagram.com
-31.13.72.172	scontent-a-arn.cdninstagram.com scontent-b-arn.cdninstagram.com scontent-arn2-1.cdninstagram.com
-31.13.65.172	scontent-a-atl.cdninstagram.com scontent-b-atl.cdninstagram.com scontent-atl3-1.cdninstagram.com
-157.240.6.52	scontent-a-bog.cdninstagram.com scontent-b-bog.cdninstagram.com scontent-bog1-1.cdninstagram.com
-179.60.195.172	scontent-a-bru.cdninstagram.com scontent-b-bru.cdninstagram.com scontent-bru2-1.cdninstagram.com
-179.60.192.52	scontent-a-cdg.cdninstagram.com scontent-b-cdg.cdninstagram.com scontent-cdg2-1.cdninstagram.com
-31.13.94.51	scontent-a-eze.cdninstagram.com scontent-b-eze.cdninstagram.com scontent-eze1-1.cdninstagram.com
-31.13.92.51	scontent-a-frt.cdninstagram.com scontent-b-frt.cdninstagram.com scontent-frt3-1.cdninstagram.com
-185.60.216.174	scontent-a-frx.cdninstagram.com scontent-b-frx.cdninstagram.com scontent-frx5-1.cdninstagram.com
-157.240.12.52	scontent-a-gru.cdninstagram.com scontent-b-gru.cdninstagram.com
-31.13.95.172	scontent-a-hkg.cdninstagram.com scontent-b-hkg.cdninstagram.com
-31.13.69.172	scontent-a-iad.cdninstagram.com scontent-b-iad.cdninstagram.com scontent-iad.cdninstagram.com scontent-iad3-1.cdninstagram.com
-31.13.68.174	scontent-a-icn.cdninstagram.com scontent-b-icn.cdninstagram.com scontent-icn1-1.cdninstagram.com
-157.240.10.52	scontent-a-kut.cdninstagram.com scontent-b-kut.cdninstagram.com
-31.13.70.172	scontent-a-lax.cdninstagram.com scontent-b-lax.cdninstagram.com scontent-lax.cdninstagram.com
-31.13.71.174	scontent-a-lga.cdninstagram.com scontent-b-lga.cdninstagram.com scontent-lga.cdninstagram.com scontent-lga3-1.cdninstagram.com
-31.13.90.174	scontent-a-lhr.cdninstagram.com scontent-b-lhr.cdninstagram.com scontent-lhr3-1.cdninstagram.com
-157.240.1.172	scontent-a-lht.cdninstagram.com scontent-b-lht.cdninstagram.com scontent-lht6-1.cdninstagram.com
-31.13.83.52	scontent-a-mad.cdninstagram.com scontent-b-mad.cdninstagram.com scontent-mad1-1.cdninstagram.comc
-31.13.75.174	scontent-a-mrs.cdninstagram.com scontent-b-mrs.cdninstagram.com scontent-mrs1-1.cdninstagram.com
-31.13.86.52	scontent-a-mxp.cdninstagram.com scontent-b-mxp.cdninstagram.com scontent-mxp1-1.cdninstagram.com
-157.240.18.63	scontent-a-ort.cdninstagram.com scontent-b-ort.cdninstagram.com
-185.60.218.52	scontent-a-otp.cdninstagram.com scontent-b-otp.cdninstagram.com scontent-otp1-1.cdninstagram.com
-179.60.193.63	scontent-a-scl.cdninstagram.com scontent-b-scl.cdninstagram.com scontent-scl1-1.cdninstagram.com
-31.13.76.174	scontent-a-sea.cdninstagram.com scontent-b-sea.cdninstagram.com scontent-sea1-1.cdninstagram.com
-157.240.7.172	scontent-a-sin.cdninstagram.com scontent-b-sin.cdninstagram.com
-31.13.78.172	scontent-a-sit.cdninstagram.com scontent-b-sit.cdninstagram.com scontent-sit4-1.cdninstagram.com
-157.240.22.63	scontent-a-sjc.cdninstagram.com scontent-b-sjc.cdninstagram.com scontent-sjc3-1.cdninstagram.com
-157.240.9.52	scontent-a-sof.cdninstagram.com scontent-b-sof.cdninstagram.com scontent-sof1-1.cdninstagram.com
-157.240.8.174	scontent-a-syd.cdninstagram.com scontent-b-syd.cdninstagram.com scontent-syd2-1.cdninstagram.com
-31.13.84.52	scontent-a-vie.cdninstagram.com scontent-b-vie.cdninstagram.com scontent-vie1-1.cdninstagram.com
-31.13.81.52	scontent-a-waw.cdninstagram.com scontent-b-waw.cdninstagram.com scontent-waw1-1.cdninstagram.com
-31.13.80.52	scontent-a-yyz.cdninstagram.com scontent-b-yyz.cdninstagram.com scontent-yyz1-1.cdninstagram.com
-31.13.85.172	scontent-gru2-1.cdninstagram.com
-157.240.12.172	scontent-gru2-2.cdninstagram.com
-31.13.95.174	scontent-hkg3-1.cdninstagram.com
-157.240.15.172	scontent-hkg3-2.cdninstagram.com
-157.240.10.172	scontent-kut2-1.cdninstagram.com
-179.60.194.63	scontent-kut2-2.cdninstagram.com
-31.13.70.174	scontent-lax3-1.cdninstagram.com
-157.240.11.174	scontent-lax3-2.cdninstagram.com
-157.240.2.172	scontent-ort2-1.cdninstagram.com
-157.240.18.172	scontent-ort2-2.cdninstagram.com
-157.240.7.174	scontent-sin6-1.cdninstagram.com
-157.240.13.172	scontent-sin6-2.cdninstagram.com
-52.72.26.162	issuu.com www.issuu.com developers.issuu.com page.issuu.com
-54.80.162.85	pingback.issuu.com
-151.101.65.63	photo.issuu.com image.issuu.com content.issuu.com e.issuu.com static.issuu.com skin.issuu.com
-52.1.172.141	api.issuu.com
-34.205.198.51	help.issuu.com
+169.44.145.204	bootstrap.upsight-api.com single.upsight-api.com batch.upsight-api.com
 104.20.171.40	www.kik.com
 128.127.159.1	magazines-adf.kobo.com
 157.55.176.209	social.kobobooks.com
@@ -415,6 +329,7 @@
 210.140.131.215	sensei.pixiv.net
 210.140.131.216	novel.pixiv.net
 210.140.131.217	ssl.pixiv.net
+66.6.32.22	times.pixiv.net
 210.140.131.218	recruit.pixiv.net
 210.140.131.219	pixiv.net
 122.208.114.218	p2.pixiv.net blog.pixiv.net
@@ -454,6 +369,11 @@
 104.20.38.14	www.psiphon.ca
 140.112.172.1	ptt.cc
 192.229.189.142	www.quora.com
+133.237.50.6	rd.rakuten.co.jp
+133.237.61.71	esearch.rakuten.co.jp
+23.40.72.233	www.rakuten.co.jp
+40.115.251.146	globalexpress.rakuten.co.jp
+96.7.133.108	books.rakuten.co.jp search.rakuten.co.jp
 198.232.125.81	cdn.rawgit.com
 52.2.61.110	reuters.com
 52.85.158.178	www.reuters.com

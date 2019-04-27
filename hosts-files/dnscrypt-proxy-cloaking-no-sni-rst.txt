@@ -1,6 +1,6 @@
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-04-17
+# Last updated: 2019-04-25
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -25,8 +25,10 @@ tg-4.googlehosts.org	185.200.34.209
 tg-5.googlehosts.org	107.174.203.60
 45-124-64-82.googlehosts.org	45.124.64.82
 tg-6.googlehosts.org	45.124.64.82
+117-50-61-150.googlehosts.org	117.50.61.150
+tg-7.googlehosts.org	117.50.61.150
 106-75-2-132.googlehosts.org	106.75.2.132
-tg-7.googlehosts.org	106.75.2.132
+tg-7-b.googlehosts.org	106.75.2.132
 185-122-58-249.googlehosts.org	185.122.58.249
 tg-8.googlehosts.org	185.122.58.249
 103-105-48-234.googlehosts.org	103.105.48.234
@@ -85,6 +87,7 @@ m.apkpure.com	104.20.82.194
 # Apkpure End
 
 # Appspot Start
+# Pending fix
 www.appspot.com	172.217.168.209
 appspot.com	172.217.168.209
 events.withgoogle.com	172.217.168.209
@@ -119,6 +122,7 @@ spellup.withgoogle.com	172.217.168.209
 # Appspot End
 
 # Appspotpreview Start
+# Pending fix
 author-dot-betaspike.appspot.com	172.217.161.180
 jmoore-dot-android-experiments.appspot.com	172.217.161.180
 mission-author-dot-betaspike.appspot.com	172.217.161.180
@@ -141,11 +145,7 @@ go-tour-zh.appspot.com	172.217.14.116
 # Archive Start
 archive.org	207.241.224.4
 www.archive.org	207.241.224.4
-web-beta.archive.org	207.241.225.186
-wwwb-sentry.us.archive.org	207.241.225.186
-web.archive.org	207.241.225.186
 mail.archive.org	207.241.224.6
-books-general.archive.org	207.241.225.247
 # Archive End
 
 # Arukas Start
@@ -169,13 +169,14 @@ m.box.com	107.152.24.197
 # Buzzfeed End
 
 # Cloudfront Start
-d3njjcbhbojbot.cloudfront.net	52.85.85.246
+d3njjcbhbojbot.cloudfront.net	13.33.25.77
 d3c33hcgiwev3.cloudfront.net	52.85.83.12
 # Cloudfront End
 
 # Culturalspot Start
-embed.culturalspot.org	172.217.14.56
-globetoglobehamlet.culturalspot.org	172.217.14.96
+# Pending fix
+embed.culturalspot.org	216.58.200.238
+globetoglobehamlet.culturalspot.org	216.58.200.238
 # Culturalspot End
 
 # Conoha Start
@@ -190,57 +191,29 @@ ctext.org	63.141.239.58
 library.ctext.org	63.141.239.58
 # Ctext End
 
-# Dropbox Start
-db.tt	162.125.248.2
-www.dropbox.com	162.125.248.1
-www.dualstack.dropbox-dns.com	162.125.248.1
-api.dropbox.com	162.125.5.7
-api.dualstack.dropbox-dns.com	162.125.5.7
-api.dropboxapi.com	162.125.5.7
-api-d.dropbox.com	162.125.33.7
-api.v.dropbox.com	162.125.34.7
-api-notify.dropbox.com	162.125.34.7
-aem.dropbox.com	99.84.239.58
-api-content.dropbox.com	162.125.82.8
-api-content-photos.dropbox.com	162.125.82.5
-blogs.dropbox.com	13.35.8.95
-block.dropbox.com	162.125.17.132
-block.v.dropbox.com	162.125.17.5
-bolt.dropbox.com	162.125.18.133
-client.dropbox.com	162.125.65.3
-client-cf.dropbox.com	162.125.65.3
-client.v.dropbox.com	162.125.32.137
-client-lb.dropbox.com	162.125.80.3
-client-web.dropbox.com	162.125.80.3
-d.dropbox.com	162.125.32.135
-d.v.dropbox.com	162.125.32.135
-dl.dropbox.com	162.125.83.6
-dl-web.dropbox.com	162.125.83.6
-dl-doc.dropbox.com	162.125.83.6
-dl-debug.dropbox.com	54.236.121.227
-forums.dropbox.com	13.35.8.71
-linux.dropbox.com	13.35.99.72
-m.dropbox.com	162.125.80.2
-marketing.dropbox.com	54.230.173.117
-photos.dropbox.com	162.125.66.5
-photos-1.dropbox.com	162.125.83.5
-photos-2.dropbox.com	162.125.83.5
-photos-3.dropbox.com	162.125.83.5
-photos-4.dropbox.com	162.125.83.5
-photos-5.dropbox.com	162.125.83.5
-photos-6.dropbox.com	162.125.83.5
-photos-thumb.dropbox.com	162.125.83.5
-photos-thumb.x.dropbox.com	162.125.18.129
-paper.dropbox.com	54.153.81.237
-status.dropbox.com	54.230.173.90
-snapengage.dropbox.com	54.230.173.29
-dl.dropboxusercontent.com	162.125.7.6
-www.dropboxstatic.com	162.125.33.9
-cfl.dropboxstatic.com	104.16.100.29
-cf.dropboxstatic.com	54.230.175.68
-dbxlocal.dropboxstatic.com	162.125.33.9
-log.getdropbox.com	162.125.82.2
-# Dropbox End
+# DeviantArt Start
+deviantart.com	52.85.220.219
+www.deviantart.com	52.85.220.244
+amazing-animal-art.deviantart.com	52.85.154.135
+bugidifino.deviantart.com	54.230.231.64
+bunny-no.deviantart.com	52.85.154.83
+chipmunkrulz.deviantart.com	52.85.154.133
+forum.deviantart.com	54.230.231.59
+fifi9322.deviantart.com	54.192.163.36
+groups.deviantart.com	54.192.163.44
+imstarving.deviantart.com	54.192.163.47
+isis-moon.deviantart.com	54.192.163.36
+shop.deviantart.com	52.85.154.83
+deviantart.net	52.32.58.1
+st.deviantart.net	99.84.104.122
+a.deviantart.net	99.84.104.23
+e.deviantart.net	99.84.104.59
+i.deviantart.net	99.84.104.59
+pre00.deviantart.net	52.84.150.14
+orig00.deviantart.net	99.84.254.116
+t00.deviantart.net	99.84.254.32
+film00.deviantart.net	13.33.47.221
+# DeviantArt End
 
 # DuckDuckGo Start
 duckduckgo.com	13.210.167.213
@@ -303,127 +276,9 @@ computer.discuss.com.hk	104.20.170.49
 www.dynu.com	207.38.70.29
 # Dynu End
 
-# Facebook Start
-www.facebook.com	157.240.7.35
-fb.me	157.240.7.35
-facebook.com	157.240.7.35
-api.facebook.com	157.240.7.35
-apps.facebook.com	157.240.7.35
-attachments.facebook.com	157.240.7.35
-business.facebook.com	157.240.7.35
-bigzipfiles.facebook.com	157.240.7.35
-code.facebook.com	157.240.7.35
-check4.facebook.com	157.240.7.35
-check6.facebook.com	157.240.7.35
-connect.facebook.com	157.240.7.35
-d.facebook.com	157.240.7.35
-developers.facebook.com	157.240.7.35
-graph.facebook.com	157.240.7.35
-l.facebook.com	157.240.7.35
-login.facebook.com	157.240.7.35
-m.facebook.com	157.240.7.35
-mtouch.facebook.com	157.240.7.35
-mqtt.facebook.com	157.240.7.35
-mqtt-mini.facebook.com	157.240.7.35
-orcart.facebook.com	157.240.7.35
-pixel.facebook.com	157.240.7.35
-scontent.facebook.com	157.240.7.35
-ssl.facebook.com	157.240.7.35
-star.facebook.com	157.240.7.35
-secure.facebook.com	157.240.7.35
-staticxx.facebook.com	157.240.7.35
-touch.facebook.com	157.240.7.35
-upload.facebook.com	157.240.7.35
-vupload.facebook.com	157.240.7.35
-vupload2.facebook.com	157.240.7.35
-api-read.facebook.com	157.240.7.35
-b-api.facebook.com	157.240.7.35
-b-graph.facebook.com	157.240.7.35
-s-static.facebook.com	157.240.7.35
-zh-cn.facebook.com	157.240.7.35
-zh-tw.facebook.com	157.240.7.35
-edge-chat.facebook.com	157.240.7.35
-0-edge-chat.facebook.com	157.240.7.35
-1-edge-chat.facebook.com	157.240.7.35
-2-edge-chat.facebook.com	157.240.7.35
-3-edge-chat.facebook.com	157.240.7.35
-4-edge-chat.facebook.com	157.240.7.35
-5-edge-chat.facebook.com	157.240.7.35
-6-edge-chat.facebook.com	157.240.7.35
-channel-ecmp-05-ash3.facebook.com	157.240.7.35
-channel-staging-ecmp-05-ash3.facebook.com	157.240.7.35
-channel-testing-ecmp-05-ash3.facebook.com	157.240.7.35
-beta-chat-01-05-ash3.facebook.com	157.240.7.35
-s-static.ak.facebook.com	157.240.7.35
-star.c10r.facebook.com	157.240.7.35
-fbcdn.net	157.240.7.35
-connect.facebook.net	157.240.7.35
-ent-a.xx.fbcdn.net	157.240.7.35
-ent-b.xx.fbcdn.net	157.240.7.35
-ent-c.xx.fbcdn.net	157.240.7.35
-ent-d.xx.fbcdn.net	157.240.7.35
-ent-e.xx.fbcdn.net	157.240.7.35
-scontent.xx.fbcdn.net	157.240.7.35
-scontent-a.xx.fbcdn.net	157.240.7.35
-scontent-b.xx.fbcdn.net	157.240.7.35
-scontent-c.xx.fbcdn.net	157.240.7.35
-scontent-d.xx.fbcdn.net	157.240.7.35
-scontent-e.xx.fbcdn.net	157.240.7.35
-scontent-mxp.xx.fbcdn.net	157.240.7.35
-scontent-a-lax.xx.fbcdn.net	157.240.7.35
-scontent-a-sin.xx.fbcdn.net	157.240.7.35
-scontent-b-lax.xx.fbcdn.net	157.240.7.35
-scontent-b-sin.xx.fbcdn.net	157.240.7.35
-static.thefacebook.com	157.240.7.35
-attachment.fbsbx.com	157.240.7.35
-messenger.com	157.240.7.35
-www.messenger.com	157.240.7.35
-0-edge-chat.messenger.com	157.240.7.35
-1-edge-chat.messenger.com	157.240.7.35
-2-edge-chat.messenger.com	157.240.7.35
-3-edge-chat.messenger.com	157.240.7.35
-4-edge-chat.messenger.com	157.240.7.35
-5-edge-chat.messenger.com	157.240.7.35
-6-edge-chat.messenger.com	157.240.7.35
-snaptu-z.facebook.com	31.13.95.33
-snaptu-p1.facebook.com	31.13.95.33
-snaptu-p2.facebook.com	31.13.95.33
-edge-mqtt.facebook.com	31.13.95.5
-instantarticles.fb.com	192.0.78.13
-live.fb.com	192.0.78.13
-managingbias.fb.com	192.0.78.13
-nonprofits.fb.com	192.0.78.13
-rightsmanager.fb.com	192.0.78.13
-techprep.fb.com	192.0.78.13
-work.fb.com	192.0.78.13
-static.xx.fbcdn.net	31.13.91.15
-scontent-lax3-1.xx.fbcdn.net	31.13.91.15
-scontent-lax3-2.xx.fbcdn.net	31.13.91.15
-scontent-lax3-3.xx.fbcdn.net	31.13.91.15
-scontent-lax3-4.xx.fbcdn.net	31.13.91.15
-scontent-hkg3-1.xx.fbcdn.net	31.13.91.15
-scontent-hkg3-2.xx.fbcdn.net	31.13.91.15
-scontent-hkg3-3.xx.fbcdn.net	31.13.91.15
-z-1-scontent.xx.fbcdn.net	31.13.91.15
-video-lax3-1.xx.fbcdn.net	31.13.91.15
-video-lax3-2.xx.fbcdn.net	31.13.91.15
-video-lax3-3.xx.fbcdn.net	31.13.91.15
-video-lax3-4.xx.fbcdn.net	31.13.91.15
-video-mrs1-1.xx.fbcdn.net	31.13.91.15
-video-mrs1-2.xx.fbcdn.net	31.13.91.15
-video-mrs1-3.xx.fbcdn.net	31.13.91.15
-video-mrs1-4.xx.fbcdn.net	31.13.91.15
-video-hkg3-1.xx.fbcdn.net	31.13.91.15
-video-sit4-1.xx.fbcdn.net	31.13.91.15
-external.xx.fbcdn.net	31.13.91.15
-messengerplatform.fb.com	192.0.66.2
-threatexchange.fb.com	192.0.66.2
-video.xx.fbcdn.net	157.240.11.18
-# Facebook End
-
 # FlipBoard Start
-beacon.flipboard.com	52.44.186.59
-fbprod.flipboard.com	34.201.185.200
+beacon.flipboard.com	13.33.208.8
+fbprod.flipboard.com	13.33.208.8
 # FlipBoard End
 
 # Github Start
@@ -452,8 +307,8 @@ search.gmx.com	82.165.230.43
 # Gmx End
 
 # Goodreads Start
-www.goodreads.com	176.32.103.89
-ads.goodreads.com	176.32.102.212
+www.goodreads.com	54.239.26.220
+ads.goodreads.com	205.251.242.64
 # Goodreads End
 
 # Google Apis Start
@@ -2685,10 +2540,11 @@ mt7.gstatic.com	108.177.120.94
 
 # Hinet Start
 hichannel.hinet.net	211.20.148.228
+radio-hichannel.cdn.hinet.net	202.39.143.235
 # Hinet End
 
 # Heroku Start
-id.heroku.com	34.200.95.135
+id.heroku.com	52.200.255.123
 # Heroku End
 
 # HKGalden Start
@@ -2707,10 +2563,9 @@ img.eservice-hk.net	104.25.153.116
 # HKGolden End
 
 # HumbleBundle Start
-humble.pubnub.com	54.250.252.63
+humble.pubnub.com	54.249.82.168
 humblebundle.com	104.20.34.236
 pubnub.com	52.36.140.12
-www.humblebundle.com	216.58.200.243
 # HumbleBundle End
 
 # Hkjc Start
@@ -2721,178 +2576,14 @@ search.hkjc.com	203.86.162.153
 football.hkjc.com	101.78.207.158
 # Hkjc End
 
-# imgur Start
-imgur.com	151.101.100.193
-m.imgur.com	151.101.100.193
-api.imgur.com	151.101.100.193
-www.imgur.com	151.101.100.193
-store.imgur.com	151.101.100.193
-s.imgur.com	151.101.100.193
-p.imgur.com	151.101.100.193
-i.imgur.com	151.101.100.193
-# imgur End
-
 # Ingress Start
-appload.ingest.crittercism.com	54.193.15.78
-api.crittercism.com	54.193.15.78
+appload.ingest.crittercism.com	52.9.109.157
+api.crittercism.com	54.241.32.12
 txn.ingest.crittercism.com	54.193.253.0
-bootstrap.upsight-api.com	169.44.145.200
-single.upsight-api.com	169.44.145.200
-batch.upsight-api.com	169.44.145.200
+bootstrap.upsight-api.com	169.44.145.204
+single.upsight-api.com	169.44.145.204
+batch.upsight-api.com	169.44.145.204
 # Ingress End
-
-# Instagram Start
-instagram.com	31.13.82.172
-www.instagram.com	31.13.82.174
-badges.instagram.com	157.240.15.174
-graph.instagram.com	157.240.15.174
-logger.instagram.com	157.240.15.63
-maps.instagram.com	157.240.15.63
-i.instagram.com	52.45.94.103
-api.instagram.com	52.45.94.103
-help.instagram.com	31.13.76.172
-platform.instagram.com	31.13.76.172
-blog.instagram.com	66.6.32.22
-images.ak.instagram.com	23.55.56.140
-static.ak.instagram.com	23.32.241.16
-scontent.cdninstagram.com	31.13.87.52
-scontent-a.cdninstagram.com	157.240.15.174
-scontent-b.cdninstagram.com	157.240.15.174
-scontent-a-ams.cdninstagram.com	31.13.91.52
-scontent-b-ams.cdninstagram.com	31.13.91.52
-scontent-ams3-1.cdninstagram.com	31.13.91.52
-scontent-a-amt.cdninstagram.com	31.13.91.172
-scontent-b-amt.cdninstagram.com	31.13.91.172
-scontent-amt2-1.cdninstagram.com	31.13.91.172
-scontent-a-arn.cdninstagram.com	31.13.72.172
-scontent-b-arn.cdninstagram.com	31.13.72.172
-scontent-arn2-1.cdninstagram.com	31.13.72.172
-scontent-a-atl.cdninstagram.com	31.13.65.172
-scontent-b-atl.cdninstagram.com	31.13.65.172
-scontent-atl3-1.cdninstagram.com	31.13.65.172
-scontent-a-bog.cdninstagram.com	157.240.6.52
-scontent-b-bog.cdninstagram.com	157.240.6.52
-scontent-bog1-1.cdninstagram.com	157.240.6.52
-scontent-a-bru.cdninstagram.com	179.60.195.172
-scontent-b-bru.cdninstagram.com	179.60.195.172
-scontent-bru2-1.cdninstagram.com	179.60.195.172
-scontent-a-cdg.cdninstagram.com	179.60.192.52
-scontent-b-cdg.cdninstagram.com	179.60.192.52
-scontent-cdg2-1.cdninstagram.com	179.60.192.52
-scontent-a-eze.cdninstagram.com	31.13.94.51
-scontent-b-eze.cdninstagram.com	31.13.94.51
-scontent-eze1-1.cdninstagram.com	31.13.94.51
-scontent-a-frt.cdninstagram.com	31.13.92.51
-scontent-b-frt.cdninstagram.com	31.13.92.51
-scontent-frt3-1.cdninstagram.com	31.13.92.51
-scontent-a-frx.cdninstagram.com	185.60.216.174
-scontent-b-frx.cdninstagram.com	185.60.216.174
-scontent-frx5-1.cdninstagram.com	185.60.216.174
-scontent-a-gru.cdninstagram.com	157.240.12.52
-scontent-b-gru.cdninstagram.com	157.240.12.52
-scontent-a-hkg.cdninstagram.com	31.13.95.172
-scontent-b-hkg.cdninstagram.com	31.13.95.172
-scontent-a-iad.cdninstagram.com	31.13.69.172
-scontent-b-iad.cdninstagram.com	31.13.69.172
-scontent-iad.cdninstagram.com	31.13.69.172
-scontent-iad3-1.cdninstagram.com	31.13.69.172
-scontent-a-icn.cdninstagram.com	31.13.68.174
-scontent-b-icn.cdninstagram.com	31.13.68.174
-scontent-icn1-1.cdninstagram.com	31.13.68.174
-scontent-a-kut.cdninstagram.com	157.240.10.52
-scontent-b-kut.cdninstagram.com	157.240.10.52
-scontent-a-lax.cdninstagram.com	31.13.70.172
-scontent-b-lax.cdninstagram.com	31.13.70.172
-scontent-lax.cdninstagram.com	31.13.70.172
-scontent-a-lga.cdninstagram.com	31.13.71.174
-scontent-b-lga.cdninstagram.com	31.13.71.174
-scontent-lga.cdninstagram.com	31.13.71.174
-scontent-lga3-1.cdninstagram.com	31.13.71.174
-scontent-a-lhr.cdninstagram.com	31.13.90.174
-scontent-b-lhr.cdninstagram.com	31.13.90.174
-scontent-lhr3-1.cdninstagram.com	31.13.90.174
-scontent-a-lht.cdninstagram.com	157.240.1.172
-scontent-b-lht.cdninstagram.com	157.240.1.172
-scontent-lht6-1.cdninstagram.com	157.240.1.172
-scontent-a-mad.cdninstagram.com	31.13.83.52
-scontent-b-mad.cdninstagram.com	31.13.83.52
-scontent-mad1-1.cdninstagram.comc	31.13.83.52
-scontent-a-mrs.cdninstagram.com	31.13.75.174
-scontent-b-mrs.cdninstagram.com	31.13.75.174
-scontent-mrs1-1.cdninstagram.com	31.13.75.174
-scontent-a-mxp.cdninstagram.com	31.13.86.52
-scontent-b-mxp.cdninstagram.com	31.13.86.52
-scontent-mxp1-1.cdninstagram.com	31.13.86.52
-scontent-a-nrt.cdninstagram.com	31.13.82.174
-scontent-b-nrt.cdninstagram.com	31.13.82.174
-scontent-nrt1-1.cdninstagram.com	31.13.82.174
-scontent-a-ort.cdninstagram.com	157.240.18.63
-scontent-b-ort.cdninstagram.com	157.240.18.63
-scontent-a-otp.cdninstagram.com	185.60.218.52
-scontent-b-otp.cdninstagram.com	185.60.218.52
-scontent-otp1-1.cdninstagram.com	185.60.218.52
-scontent-a-scl.cdninstagram.com	179.60.193.63
-scontent-b-scl.cdninstagram.com	179.60.193.63
-scontent-scl1-1.cdninstagram.com	179.60.193.63
-scontent-a-sea.cdninstagram.com	31.13.76.174
-scontent-b-sea.cdninstagram.com	31.13.76.174
-scontent-sea1-1.cdninstagram.com	31.13.76.174
-scontent-a-sin.cdninstagram.com	157.240.7.172
-scontent-b-sin.cdninstagram.com	157.240.7.172
-scontent-a-sit.cdninstagram.com	31.13.78.172
-scontent-b-sit.cdninstagram.com	31.13.78.172
-scontent-sit4-1.cdninstagram.com	31.13.78.172
-scontent-a-sjc.cdninstagram.com	157.240.22.63
-scontent-b-sjc.cdninstagram.com	157.240.22.63
-scontent-sjc3-1.cdninstagram.com	157.240.22.63
-scontent-a-sof.cdninstagram.com	157.240.9.52
-scontent-b-sof.cdninstagram.com	157.240.9.52
-scontent-sof1-1.cdninstagram.com	157.240.9.52
-scontent-a-syd.cdninstagram.com	157.240.8.174
-scontent-b-syd.cdninstagram.com	157.240.8.174
-scontent-syd2-1.cdninstagram.com	157.240.8.174
-scontent-a-tpe.cdninstagram.com	31.13.87.52
-scontent-b-tpe.cdninstagram.com	31.13.87.52
-scontent-tpe1-1.cdninstagram.com	31.13.87.52
-scontent-a-vie.cdninstagram.com	31.13.84.52
-scontent-b-vie.cdninstagram.com	31.13.84.52
-scontent-vie1-1.cdninstagram.com	31.13.84.52
-scontent-a-waw.cdninstagram.com	31.13.81.52
-scontent-b-waw.cdninstagram.com	31.13.81.52
-scontent-waw1-1.cdninstagram.com	31.13.81.52
-scontent-a-yyz.cdninstagram.com	31.13.80.52
-scontent-b-yyz.cdninstagram.com	31.13.80.52
-scontent-yyz1-1.cdninstagram.com	31.13.80.52
-scontent-gru2-1.cdninstagram.com	31.13.85.172
-scontent-gru2-2.cdninstagram.com	157.240.12.172
-scontent-hkg3-1.cdninstagram.com	31.13.95.174
-scontent-hkg3-2.cdninstagram.com	157.240.15.172
-scontent-kut2-1.cdninstagram.com	157.240.10.172
-scontent-kut2-2.cdninstagram.com	179.60.194.63
-scontent-lax3-1.cdninstagram.com	31.13.70.174
-scontent-lax3-2.cdninstagram.com	157.240.11.174
-scontent-ort2-1.cdninstagram.com	157.240.2.172
-scontent-ort2-2.cdninstagram.com	157.240.18.172
-scontent-sin6-1.cdninstagram.com	157.240.7.174
-scontent-sin6-2.cdninstagram.com	157.240.13.172
-# Instagram End
-
-# issuu Start
-issuu.com	52.72.26.162
-www.issuu.com	52.72.26.162
-developers.issuu.com	52.72.26.162
-page.issuu.com	52.72.26.162
-blog.issuu.com	66.6.32.22
-pingback.issuu.com	54.80.162.85
-photo.issuu.com	151.101.65.63
-image.issuu.com	151.101.65.63
-content.issuu.com	151.101.65.63
-e.issuu.com	151.101.65.63
-static.issuu.com	151.101.65.63
-skin.issuu.com	151.101.65.63
-api.issuu.com	52.1.172.141
-help.issuu.com	34.205.198.51
-# issuu End
 
 # Kik Start
 www.kik.com	104.20.171.40
@@ -3222,6 +2913,15 @@ ptt.cc	140.112.172.1
 # Quora Start
 www.quora.com	192.229.189.142
 # Quora End
+
+# Rakuten Start
+rd.rakuten.co.jp	133.237.50.6
+esearch.rakuten.co.jp	133.237.61.71
+www.rakuten.co.jp	23.40.72.233
+globalexpress.rakuten.co.jp	40.115.251.146
+books.rakuten.co.jp	96.7.133.108
+search.rakuten.co.jp	96.7.133.108
+# Rakuten End
 
 # RawGit Start
 cdn.rawgit.com	198.232.125.81
