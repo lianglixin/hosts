@@ -1,4 +1,4 @@
-# Google Hosts
+# GoogleHosts
 [![doodle]][doodle-story]
 
 [doodle]: https://www.google.com/logos/doodles/2019/spring-equinox-2019-northern-hemisphere-5139135894388736-2x.png
@@ -8,7 +8,7 @@
 |                  :---:                   |                   :---:                    |             :---:              |             :---:              |
 | [![telegram-badge]][telegram-group-link] | [![telegram-badge]][telegram-channel-link] | [![travis-badge]][travis-link] | [![mirror-badge]][mirror-link] |
 
-[telegram-badge]: https://img.shields.io/badge/Google%20Hosts-Telegram-brightgreen.svg?style=flat-square
+[telegram-badge]: https://img.shields.io/badge/GoogleHosts-Telegram-brightgreen.svg?style=flat-square
 [telegram-group-link]: https://t.me/googlehosts
 [telegram-channel-link]: https://t.me/googlehostsnews
 [travis-badge]: https://img.shields.io/travis/googlehosts/hosts/hosts-source.svg?style=flat-square
@@ -30,7 +30,7 @@
   - 同时你也**不能将本项目用于商业用途**，**任何盈利活动都属于商业用途**。
   - 当你使用了使用SATA的开源软件或文档的时候，在遵守MIT许可证的前提下，你应该马不停蹄地给你所使用的开源项目“点个赞”，比如GitHub上的star，然后你应该感谢这个帮助了你的开源项目的作者，作者信息可以在许可证头部的版权声明部分找到。
 
-- 本项目的所有代码除另有说明外，均基于MIT License发布，具体请看`hosts-master`分支下的[LICENSE](https://github.com/googlehosts/hosts/blob/hosts-source/LICENSE)。
+- 本项目的所有代码除另有说明外，均基于MIT License发布，具体请看`hosts-source`分支下的[LICENSE](https://github.com/googlehosts/hosts/blob/hosts-source/LICENSE)。
 
 - 此处的文字仅用于说明，条款以LICENSE文件中的内容为准。
 

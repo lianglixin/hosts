@@ -2,7 +2,7 @@
 
 # Copyright (c) 2017-2019, googlehosts members.
 # https://github.com/googlehosts/hosts
-# Last updated: 2019-04-25
+# Last updated: 2019-04-28
 
 # This work is licensed under a modified HOSTS License.
 # https://github.com/googlehosts/hosts/raw/master/LICENSE
@@ -121,6 +121,7 @@ add address=172.217.168.209 name=britishmuseum.withgoogle.com
 add address=172.217.168.209 name=beyondthemap.withgoogle.com
 add address=172.217.168.209 name=analyticsacademy.withgoogle.com
 add address=172.217.168.209 name=spellup.withgoogle.com
+add address=172.217.27.148 name=chrome-infra-packages.appspot.com
 # Appspot End
 
 # Appspotpreview Start
@@ -2592,9 +2593,7 @@ add address=104.20.171.40 name=www.kik.com
 # Kik End
 
 # Kobo Start
-add address=128.127.159.1 name=magazines-adf.kobo.com
 add address=157.55.176.209 name=social.kobobooks.com
-add address=191.236.35.232 name=storedownloads.kobo.com
 add address=191.238.229.33 name=discovery.kobobooks.com
 add address=204.87.189.12 name=images.kobobooks.com
 add address=204.87.189.201 name=ftp.kobobooks.com
@@ -2602,7 +2601,6 @@ add address=204.87.189.51 name=kobobooks.com
 add address=204.87.189.51 name=prod-www.kobobooks.com
 add address=204.87.189.71 name=ecimagest.kobobooks.com
 add address=204.87.189.87 name=prod-store.kobobooks.com
-add address=204.87.189.92 name=kobo.com
 add address=13.92.121.97 name=kobomaintenance.kobobooks.com
 add address=23.227.38.64 name=au.kobobooks.com
 add address=23.227.38.64 name=ca-fr.kobobooks.com
@@ -2617,49 +2615,32 @@ add address=23.227.38.64 name=nz.kobobooks.com
 add address=23.227.38.64 name=pt.kobobooks.com
 add address=23.227.38.64 name=uk.kobobooks.com
 add address=23.227.38.64 name=us.kobobooks.com
-add address=23.222.170.74 name=akimages.kobobooks.com
-add address=23.222.170.74 name=api.kobobooks.com
-add address=23.222.170.74 name=esmx.kobobooks.com
-add address=23.222.170.74 name=esmxsecure.kobobooks.com
-add address=23.222.170.74 name=merch.kobobooks.com
-add address=23.222.170.74 name=mobile.kobobooks.com
-add address=23.222.170.74 name=mobilepartner.kobobooks.com
-add address=23.222.170.74 name=mobilestage.kobobooks.com
-add address=23.222.170.74 name=partner.kobobooks.com
-add address=23.222.170.74 name=ptbr.kobobooks.com
-add address=23.222.170.74 name=ptbrsecure.kobobooks.com
-add address=23.222.170.74 name=ratingsapi.kobobooks.com
-add address=23.222.170.74 name=read.kobobooks.com
-add address=23.222.170.74 name=secure.kobobooks.com
-add address=23.222.170.74 name=services.kobobooks.com
-add address=23.222.170.74 name=store.kobobooks.com
-add address=23.222.170.74 name=tr.kobobooks.com
-add address=23.222.170.74 name=webstore.kobobooks.com
-add address=23.222.170.74 name=webstore2.kobobooks.com
-add address=23.222.170.74 name=writinglife.kobobooks.com
-add address=23.222.170.74 name=www.kobobooks.com
-add address=23.222.171.40 name=assets.kobo.com
-add address=23.222.171.40 name=de.kobo.com
-add address=23.222.171.40 name=es.kobo.com
-add address=23.222.171.40 name=fr.kobo.com
-add address=23.222.171.40 name=it.kobo.com
-add address=23.222.171.40 name=ja.kobo.com
-add address=23.222.171.40 name=nl.kobo.com
-add address=23.222.171.40 name=pt.kobo.com
-add address=23.222.171.40 name=ptbr.kobo.com
-add address=23.222.171.40 name=read.kobo.com
-add address=23.222.171.40 name=rum.kobo.com
-add address=23.222.171.40 name=stage.kobo.com
-add address=23.222.171.40 name=storeapi.kobo.com
-add address=23.222.171.40 name=tw.kobo.com
-add address=23.66.137.9 name=www.kobo.com
-add address=40.114.86.114 name=sorry.kobo.com
+add address=23.46.136.67 name=akimages.kobobooks.com
+add address=23.46.136.67 name=api.kobobooks.com
+add address=23.46.136.67 name=esmx.kobobooks.com
+add address=23.46.136.67 name=esmxsecure.kobobooks.com
+add address=23.46.136.67 name=merch.kobobooks.com
+add address=23.46.136.67 name=mobile.kobobooks.com
+add address=23.46.136.67 name=mobilepartner.kobobooks.com
+add address=23.46.136.67 name=mobilestage.kobobooks.com
+add address=23.46.136.67 name=partner.kobobooks.com
+add address=23.46.136.67 name=ptbr.kobobooks.com
+add address=23.46.136.67 name=ptbrsecure.kobobooks.com
+add address=23.46.136.67 name=ratingsapi.kobobooks.com
+add address=23.46.136.67 name=read.kobobooks.com
+add address=23.46.136.67 name=secure.kobobooks.com
+add address=23.46.136.67 name=services.kobobooks.com
+add address=23.46.136.67 name=store.kobobooks.com
+add address=23.46.136.67 name=tr.kobobooks.com
+add address=23.46.136.67 name=webstore.kobobooks.com
+add address=23.46.136.67 name=webstore2.kobobooks.com
+add address=23.46.136.67 name=writinglife.kobobooks.com
+add address=23.46.136.67 name=www.kobobooks.com
 add address=75.98.196.99 name=media.kobobooks.com
-add address=96.6.122.224 name=contentdownloads.kobobooks.com
-add address=96.6.122.224 name=get.kobobooks.com
-add address=96.6.122.224 name=ecimages.kobobooks.com
-add address=96.6.122.224 name=ecmimages.kobobooks.com
-add address=89.187.65.68 name=insiders.kobo.com
+add address=184.51.198.112 name=contentdownloads.kobobooks.com
+add address=184.51.198.112 name=get.kobobooks.com
+add address=184.51.198.112 name=ecimages.kobobooks.com
+add address=184.51.198.112 name=ecmimages.kobobooks.com
 # Kobo End
 
 # Logmein Start
